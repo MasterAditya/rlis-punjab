@@ -1,0 +1,1001 @@
+timestamp,location_reported,raw_message,category_label,severity_score
+2025-10-01 00:26:00,Rajpura Toll,zero visibility near rajpura toll. fog is pura. driving slow.,smog_fog,7
+2025-10-01 01:30:00,Amritsar Gate,zr vsblty pss amrtsr gt. dhnd s bht hvy. drvng slw.,smog_fog,9
+2025-10-01 01:32:00,Jalandhar Bypass,crossed jalandhar bypass. road clear. reaching on time.,clear,0
+2025-10-01 01:38:00,Sirhind Mandi,stray cows on rod near sirhind mandi. risk of accident. blocked.,rural_hazard,6
+2025-10-01 01:55:00,Moga Grain Market,zero visibility near moga grain market. smog is pura. driving slow.,smog_fog,9
+2025-10-01 02:51:00,Bathinda Refinery,zero visibility near bathinda refinery. dhund is very bad. driving slow.,smog_fog,8
+2025-10-01 05:23:00,Amritsar Gate,zero visibility near amritsar gate. slippery rd is total. driving slow.,smog_fog,8
+2025-10-01 05:39:00,NH-44,zero visibility near nh-44. heavy rain is boht heavy. driving slow.,smog_fog,8
+2025-10-01 05:42:00,Khanna Mandi,cattle on road nr khanna mandi. risk of accident. khada hai.,rural_hazard,4
+2025-10-01 05:57:00,Canal Road,zero visibility pass canal road. fog is boht heavy. driving slow.,smog_fog,8
+2025-10-01 06:13:00,Raikot,zr vsblty nr rkt. wtrlggng s dd. drvng slw.,smog_fog,8
+2025-10-01 06:24:00,Ferozepur Road,cattle on road near ferozepur road. risk of accident. blocked.,rural_hazard,6
+2025-10-01 07:35:00,Amritsar Gate,amritsar gate stuck by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-01 09:00:00,Ferozepur Road,crossed ferozepur road. road clear. reaching on time.,clear,0
+2025-10-01 09:17:00,Rajpura Toll,my canter stopped at rajpura toll. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-01 09:30:00,Amritsar Gate,crossed amritsar gate. road clear. reaching on time.,clear,0
+2025-10-01 09:48:00,GT Road,my trolley stopped at gt road. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-01 11:14:00,Raikot,my trolley stopped at raikot. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-01 12:23:00,Machhiwara,total traffic. gaadi jammed near machhiwara due to slow gate entry.,harvest_traffic,4
+2025-10-01 15:55:00,Canal Road,crossed canal road. road clear. reaching on time.,clear,0
+2025-10-01 16:07:00,NH-44,pura traffic. gaadi stuck near nh-44 due to labor shortage.,harvest_traffic,6
+2025-10-01 16:44:00,Ferozepur Road,crssd frzpr rd. rd clr. rchng n tm.,clear,0
+2025-10-01 17:05:00,Rajpura Toll,crssd rjpr tll. rd clr. rchng n tm.,clear,0
+2025-10-01 17:20:00,Raikot,my tanker stopped at raikot. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-01 17:49:00,Phillaur,my gaadi stopped at phillaur. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-01 18:06:00,Ludhiana Transport Nagar,ludhiana transport nagar blocked by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-01 19:19:00,Amritsar Gate,crossed amritsar gate. road clear. reaching on time.,clear,0
+2025-10-01 19:55:00,Samrala,my canter stopped at samrala. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-01 20:45:00,Raikot,zero visibility pass raikot. fog is pura. driving slow.,smog_fog,8
+2025-10-01 21:29:00,Sirhind Mandi,zero visibility near sirhind mandi. fog is dead. driving slow.,smog_fog,9
+2025-10-01 23:48:00,Sirhind Mandi,zero visibility near sirhind mandi. smog is pura. driving slow.,smog_fog,8
+2025-10-02 01:15:00,Doraha,zero visibility near doraha. slippery rd is dead. driving slow.,smog_fog,9
+2025-10-02 01:26:00,Samrala,crossed samrala. road clear. reaching on time.,clear,0
+2025-10-02 01:34:00,NH-44,pothole on road near nh-44. risk of accident. khada hai.,rural_hazard,4
+2025-10-02 02:17:00,Jalandhar Bypass,zero visibility pass jalandhar bypass. waterlogging is boht heavy. driving slow.,smog_fog,7
+2025-10-02 03:15:00,GT Road,zero visibility pass gt road. dhund is slow. driving slow.,smog_fog,8
+2025-10-02 03:40:00,Rajpura Toll,zero visibility near rajpura toll. waterlogging is slow. driving slow.,smog_fog,9
+2025-10-02 04:40:00,Link Road #5,crossed link road #5. road clear. reaching on time.,clear,0
+2025-10-02 05:10:00,Nakodar,cattle on road near nakodar. risk of accident. phas gya.,rural_hazard,4
+2025-10-02 06:18:00,Malerkotla,crossed malerkotla. rasta clear. reaching on time.,clear,0
+2025-10-02 06:31:00,Canal Road,zero visibility near canal road. heavy rain is dead. driving slow.,smog_fog,7
+2025-10-02 07:36:00,Amritsar Gate,my truck stopped at amritsar gate. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-02 08:16:00,Canal Road,dead traffic. trolley khada hai near canal rasta due to slow gate entry.,harvest_traffic,5
+2025-10-02 08:19:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. rod clear. reaching on time.,clear,0
+2025-10-02 10:55:00,Canal Road,my tanker stopped at canal road. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-02 11:13:00,Sahnewal Mandi,sahnewal mandi phas gya by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-02 11:17:00,Link Road #5,my gaadi stopped at link road #5. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-02 11:31:00,Moga Grain Market,boht heavy traffic. tanker jammed near moga grain market due to paddy bags.,harvest_traffic,6
+2025-10-02 12:25:00,Link Road #5,crssd lnk rd #5. rd clr. rchng n tm.,clear,0
+2025-10-02 12:34:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. road clear. reaching on time.,clear,0
+2025-10-02 12:48:00,NH-44,my canter stopped at nh-44. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-02 12:54:00,Bathinda Refinery,crossed bathinda refinery. road clear. reaching on time.,clear,0
+2025-10-02 13:04:00,Link Road #5,slow traffic. tractor khada hai nr link rd #5 due to unloading.,harvest_traffic,5
+2025-10-02 13:04:00,Phillaur,total traffic. tractor stuck pass phillaur due to overloading check.,harvest_traffic,4
+2025-10-02 13:13:00,Ferozepur Road,slow traffic. gaadi blokd near ferozepur rasta due to paddy bags.,harvest_traffic,6
+2025-10-02 14:19:00,Moga Grain Market,moga grain market khada hai by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-02 14:27:00,Canal Road,crossed canal road. road clear. reaching on time.,clear,0
+2025-10-02 14:46:00,Nakodar,my gaadi stopped at nakodar. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-02 15:17:00,GT Road,gt road stopped by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-02 15:26:00,Moga Grain Market,boht heavy traffic. canter khada hai pass moga grain market due to paddy bags.,harvest_traffic,5
+2025-10-02 16:00:00,Ferozepur Road,my canter stopped at ferozepur road. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-02 17:43:00,Sirhind Mandi,boht heavy traffic. tractor phas gya near sirhind mandi due to labor shortage.,harvest_traffic,7
+2025-10-02 17:58:00,Ferozepur Road,my tanker stopped at ferozepur road. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-02 18:12:00,Phillaur,very bad traffic. truck stopped near phillaur due to paddy bags.,harvest_traffic,6
+2025-10-02 18:26:00,Doraha,very bad traffic. trolley stuck near doraha due to slow gate entry.,harvest_traffic,5
+2025-10-02 19:44:00,Malerkotla,malerkotla stopped by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-02 20:02:00,Jalandhar Bypass,cattle on road near jalandhar bypass. risk of accident. stuck.,rural_hazard,6
+2025-10-02 20:05:00,Nakodar,zero visibility near nakodar. dhund is boht heavy. driving slow.,smog_fog,7
+2025-10-02 20:12:00,Moga Grain Market,zero visibility near moga grain market. smog is very bad. driving slow.,smog_fog,7
+2025-10-02 20:24:00,Jagraon Mandi,crossed jagraon mandi. rod clear. reaching on time.,clear,0
+2025-10-02 21:25:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. rod clear. reaching on time.,clear,0
+2025-10-03 01:31:00,Doraha,zero visibility near doraha. dhund is dead. driving slow.,smog_fog,9
+2025-10-03 04:50:00,Jagraon Mandi,crossed jagraon mandi. road clear. reaching on time.,clear,0
+2025-10-03 05:04:00,Khanna Mandi,crossed khanna mandi. road clear. reaching on time.,clear,0
+2025-10-03 06:30:00,NH-44,zero visibility near nh-44. slippery road is boht heavy. driving slow.,smog_fog,8
+2025-10-03 06:31:00,Amritsar Gate,zero visibility near amritsar gate. heavy rain is slow. driving slow.,smog_fog,8
+2025-10-03 06:50:00,NH-44,crossed nh-44. road clear. reaching on time.,clear,0
+2025-10-03 06:53:00,Raikot,zero visibility near raikot. fog is boht heavy. driving slow.,smog_fog,9
+2025-10-03 07:57:00,GT Road,slow traffic. gaadi jammed near gt rasta due to unloading.,harvest_traffic,6
+2025-10-03 07:57:00,Canal Road,crossed canal road. road clear. reaching on time.,clear,0
+2025-10-03 09:02:00,Phillaur,phillaur khada hai by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-03 09:49:00,Rajpura Toll,dead traffic. truck blokd nr rajpura toll due to overloading check.,harvest_traffic,5
+2025-10-03 09:56:00,Ferozepur Road,dead traffic. trolley jammed pass ferozepur road due to unloading.,harvest_traffic,4
+2025-10-03 10:37:00,Samrala,crossed samrala. road clear. reaching on time.,clear,0
+2025-10-03 11:00:00,Phillaur,phllr jmmd by strk. ttl jm. avd ths rt.,protest_dharna,10
+2025-10-03 11:27:00,Rajpura Toll,bht hvy trffc. gd stck nr rjpr tll d t vrldng chck.,harvest_traffic,7
+2025-10-03 12:29:00,Malerkotla,malerkotla phas gya by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-03 12:34:00,Doraha,doraha stuck by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-03 13:59:00,Moga Grain Market,dead traffic. tractor jammed nr moga grain market due to unloading.,harvest_traffic,6
+2025-10-03 15:26:00,Canal Road,pura traffic. gaadi blocked near canal road due to paddy bags.,harvest_traffic,6
+2025-10-03 15:36:00,Ferozepur Road,slow traffic. truck stopped near ferozepur road due to labor shortage.,harvest_traffic,6
+2025-10-03 15:45:00,Samrala,my trlly stppd t smrl. cltch plt gy. nd mchnc.,vehicle_breakdown,2
+2025-10-03 15:57:00,Doraha,slow traffic. gaadi jammed nr doraha due to unloading.,harvest_traffic,4
+2025-10-03 16:25:00,Khanna Mandi,my truck stopped at khanna mandi. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-03 16:41:00,Bathinda Refinery,boht heavy traffic. canter jammed near bathinda refinery due to labor shortage.,harvest_traffic,7
+2025-10-03 19:08:00,Link Road #5,crossed link rasta #5. road clear. reaching on time.,clear,0
+2025-10-03 19:16:00,Khanna Mandi,total traffic. tractor blocked near khanna mandi due to overloading check.,harvest_traffic,5
+2025-10-03 20:51:00,Malerkotla,stray cows on rod near malerkotla. risk of accident. phas gya.,rural_hazard,4
+2025-10-03 21:16:00,Jalandhar Bypass,zero visibility near jalandhar bypass. heavy rain is boht heavy. driving slow.,smog_fog,7
+2025-10-03 21:16:00,NH-44,cattle on road near nh-44. risk of accident. jammed.,rural_hazard,6
+2025-10-03 23:37:00,Raikot,electric wire on road near raikot. risk of accident. blocked.,rural_hazard,4
+2025-10-04 03:30:00,Jalandhar Bypass,crossed jalandhar bypass. rod clear. reaching on time.,clear,0
+2025-10-04 03:36:00,Amritsar Gate,electric wire on rasta near amritsar gate. risk of accident. stopped.,rural_hazard,6
+2025-10-04 03:48:00,Khanna Mandi,pothole on road near khanna mandi. risk of accident. stuck.,rural_hazard,3
+2025-10-04 04:43:00,Jagraon Mandi,zero visibility near jagraon mandi. smog is slow. driving slow.,smog_fog,9
+2025-10-04 05:37:00,Jalandhar Bypass,zr vsblty nr jlndhr bypss. slppry rd s dd. drvng slw.,smog_fog,9
+2025-10-04 07:00:00,Ludhiana Transport Nagar,my trctr stppd t ldhn trnsprt ngr. cltch plt gy. nd mchnc.,vehicle_breakdown,2
+2025-10-04 07:09:00,Raikot,boht heavy traffic. gaadi stuck near raikot due to labor shortage.,harvest_traffic,4
+2025-10-04 07:38:00,NH-44,slow traffic. truck khada hai near nh-44 due to slow gate entry.,harvest_traffic,4
+2025-10-04 09:12:00,Link Road #5,pura traffic. trolley stopped pass link road #5 due to paddy bags.,harvest_traffic,7
+2025-10-04 09:20:00,Link Road #5,dead traffic. tractor stuck nr link road #5 due to labor shortage.,harvest_traffic,7
+2025-10-04 09:40:00,NH-44,slow traffic. tanker blocked near nh-44 due to overloading check.,harvest_traffic,7
+2025-10-04 09:41:00,Phillaur,phillaur khada hai by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-04 09:45:00,Canal Road,crossed canal road. road clear. reaching on time.,clear,0
+2025-10-04 10:08:00,Jalandhar Bypass,jalandhar bypass jammed by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-04 11:22:00,NH-44,very bad traffic. truck stopped near nh-44 due to unloading.,harvest_traffic,4
+2025-10-04 11:40:00,Rajpura Toll,dead traffic. trolley blocked nr rajpura toll due to paddy bags.,harvest_traffic,5
+2025-10-04 12:50:00,Amritsar Gate,amrtsr gt stppd by rd rk. ttl jm. avd ths rt.,protest_dharna,10
+2025-10-04 13:03:00,Sirhind Mandi,sirhind mandi phas gya by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-04 13:09:00,Canal Road,boht heavy traffic. gaadi khada hai pass canal road due to slow gate entry.,harvest_traffic,6
+2025-10-04 13:36:00,Samrala,dead traffic. gaadi stuck near samrala due to slow gate entry.,harvest_traffic,6
+2025-10-04 13:53:00,Sirhind Mandi,my truck stopped at sirhind mandi. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-04 14:27:00,Sirhind Mandi,pura traffic. canter band near sirhind mandi due to labor shortage.,harvest_traffic,5
+2025-10-04 14:34:00,Ludhiana Transport Nagar,total traffic. tanker blocked near ludhiana transport nagar due to labor shortage.,harvest_traffic,7
+2025-10-04 14:37:00,Machhiwara,my tanker stopped at machhiwara. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-04 16:00:00,Malerkotla,total traffic. tractor phas gya near malerkotla due to unloading.,harvest_traffic,5
+2025-10-04 16:32:00,Ludhiana Transport Nagar,total traffic. canter stuck near ludhiana transport nagar due to overloading check.,harvest_traffic,7
+2025-10-04 18:10:00,Sahnewal Mandi,dead traffic. gaadi stopped near sahnewal mandi due to overloading check.,harvest_traffic,5
+2025-10-04 18:53:00,Ferozepur Road,ferozepur road stuck by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-04 19:24:00,Sirhind Mandi,pura traffic. tractor phas gya nr sirhind mandi due to slow gate entry.,harvest_traffic,6
+2025-10-04 19:35:00,Bathinda Refinery,crossed bathinda refinery. rod clear. reaching on time.,clear,0
+2025-10-04 20:38:00,Sirhind Mandi,zero visibility near sirhind mandi. fog is total. driving slow.,smog_fog,9
+2025-10-04 21:27:00,Bathinda Refinery,zero visibility near bathinda refinery. fog is pura. driving slow.,smog_fog,8
+2025-10-04 21:31:00,Ludhiana Transport Nagar,zero visibility near ludhiana transport nagar. waterlogging is total. driving slow.,smog_fog,8
+2025-10-04 21:40:00,Nakodar,crossed nakodar. road clear. reaching on time.,clear,0
+2025-10-04 21:42:00,Link Road #5,zero visibility near link road #5. dhund is slow. driving slow.,smog_fog,8
+2025-10-04 22:14:00,Rajpura Toll,zero visibility near rajpura toll. slippery rod is dead. driving slow.,smog_fog,9
+2025-10-04 23:05:00,Jalandhar Bypass,mud on rasta near jalandhar bypass. risk of accident. stopped.,rural_hazard,6
+2025-10-05 02:10:00,Sirhind Mandi,crossed sirhind mandi. road clear. reaching on time.,clear,0
+2025-10-05 03:11:00,NH-44,zero visibility near nh-44. waterlogging is very bad. driving slow.,smog_fog,9
+2025-10-05 03:13:00,Ludhiana Transport Nagar,cttl n rd nr ldhn trnsprt ngr. rsk f ccdnt. stck.,rural_hazard,5
+2025-10-05 03:16:00,Moga Grain Market,pothole on road near moga grain market. risk of accident. blocked.,rural_hazard,4
+2025-10-05 03:16:00,Rajpura Toll,pothole on rd nr rajpura toll. risk of accident. khada hai.,rural_hazard,6
+2025-10-05 03:37:00,Bathinda Refinery,pothole on road near bathinda refinery. risk of accident. khada hai.,rural_hazard,6
+2025-10-05 04:08:00,Samrala,zero visibility nr samrala. slippery road is total. driving slow.,smog_fog,7
+2025-10-05 06:06:00,Sirhind Mandi,zero visibility near sirhind mandi. dhund is boht heavy. driving slow.,smog_fog,7
+2025-10-05 07:31:00,Samrala,dead traffic. truck stuck near samrala due to labor shortage.,harvest_traffic,4
+2025-10-05 07:50:00,Rajpura Toll,slow traffic. tanker stuck nr rajpura toll due to unloading.,harvest_traffic,7
+2025-10-05 07:55:00,Amritsar Gate,pr trffc. trck stck nr amrtsr gt d t pddy bgs.,harvest_traffic,4
+2025-10-05 08:57:00,Doraha,my canter stopped at doraha. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-05 09:11:00,Sahnewal Mandi,shnwl mnd jmmd by nn blck. ttl jm. avd ths rt.,protest_dharna,10
+2025-10-05 09:37:00,NH-44,nh-44 phas gya by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-05 11:48:00,NH-44,nh-44 blocked by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-05 12:39:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. rod clear. reaching on time.,clear,0
+2025-10-05 16:27:00,GT Road,dead traffic. canter khada hai near gt road due to paddy bags.,harvest_traffic,7
+2025-10-05 16:57:00,Canal Road,my trlly stppd t cnl rd. cltch plt gy. nd mchnc.,vehicle_breakdown,2
+2025-10-05 18:40:00,Machhiwara,total traffic. tanker stopped near machhiwara due to slow gate entry.,harvest_traffic,6
+2025-10-05 18:48:00,Malerkotla,total traffic. truck khada hai pass malerkotla due to slow gate entry.,harvest_traffic,4
+2025-10-05 20:27:00,Samrala,electric wire on rasta near samrala. risk of accident. stuck.,rural_hazard,4
+2025-10-05 22:21:00,Link Road #5,zero visibility pass link rod #5. heavy rain is pura. driving slow.,smog_fog,9
+2025-10-05 23:26:00,Moga Grain Market,crossed moga grain market. road clear. reaching on time.,clear,0
+2025-10-06 01:06:00,Link Road #5,pothole on rod near link road #5. risk of accident. stopped.,rural_hazard,3
+2025-10-06 01:52:00,Amritsar Gate,zero visibility near amritsar gate. fog is pura. driving slow.,smog_fog,9
+2025-10-06 02:28:00,Amritsar Gate,zero visibility nr amritsar gate. fog is boht heavy. driving slow.,smog_fog,9
+2025-10-06 02:29:00,Rajpura Toll,electric wire on road near rajpura toll. risk of accident. blocked.,rural_hazard,4
+2025-10-06 02:50:00,Sirhind Mandi,zero visibility nr sirhind mandi. dhund is boht heavy. driving slow.,smog_fog,7
+2025-10-06 05:15:00,Ferozepur Road,zero visibility pass ferozepur road. dhund is total. driving slow.,smog_fog,9
+2025-10-06 06:50:00,GT Road,zero visibility near gt road. smog is dead. driving slow.,smog_fog,7
+2025-10-06 07:04:00,NH-44,boht heavy traffic. canter stopped near nh-44 due to unloading.,harvest_traffic,5
+2025-10-06 07:55:00,Machhiwara,pura traffic. gaadi khada hai pass machhiwara due to slow gate entry.,harvest_traffic,4
+2025-10-06 08:16:00,Moga Grain Market,mg grn mrkt khd h by plc brrcd. ttl jm. avd ths rt.,protest_dharna,10
+2025-10-06 08:59:00,Ludhiana Transport Nagar,ludhiana transport nagar phas gya by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-06 09:37:00,Machhiwara,my gd stppd t mchhwr. cltch plt gy. nd mchnc.,vehicle_breakdown,2
+2025-10-06 09:37:00,Phillaur,my gaadi stopped at phillaur. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-06 10:04:00,Phillaur,pura traffic. tractor band near phillaur due to paddy bags.,harvest_traffic,6
+2025-10-06 10:27:00,Sirhind Mandi,crossed sirhind mandi. road clear. reaching on time.,clear,0
+2025-10-06 10:52:00,NH-44,total traffic. truck phas gya near nh-44 due to labor shortage.,harvest_traffic,7
+2025-10-06 10:55:00,Malerkotla,total traffic. gaadi stuck near malerkotla due to paddy bags.,harvest_traffic,7
+2025-10-06 10:56:00,Rajpura Toll,rajpura toll phas gya by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-06 14:22:00,Canal Road,canal road phas gya by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-06 15:14:00,Nakodar,boht heavy traffic. tractor stopped near nakodar due to overloading check.,harvest_traffic,5
+2025-10-06 15:53:00,Ludhiana Transport Nagar,total traffic. tractor stuck nr ludhiana transport nagar due to overloading check.,harvest_traffic,6
+2025-10-06 16:06:00,Ludhiana Transport Nagar,ludhiana transport nagar band by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-06 16:06:00,Sirhind Mandi,crossed sirhind mandi. road clear. reaching on time.,clear,0
+2025-10-06 16:09:00,Bathinda Refinery,my truck stopped at bathinda refinery. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-06 17:20:00,Link Road #5,boht heavy traffic. canter stopped near link rod #5 due to paddy bags.,harvest_traffic,4
+2025-10-06 17:32:00,Amritsar Gate,my truck stopped at amritsar gate. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-06 17:32:00,Malerkotla,my truck stopped at malerkotla. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-06 17:53:00,Canal Road,my gaadi stopped at canal road. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-06 18:09:00,Canal Road,my tractor stopped at canal road. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-06 19:36:00,Canal Road,my trolley stopped at canal road. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-06 20:16:00,Nakodar,cattle on rd near nakodar. risk of accident. blocked.,rural_hazard,5
+2025-10-06 20:29:00,Rajpura Toll,cattle on road near rajpura toll. risk of accident. jammed.,rural_hazard,3
+2025-10-06 20:32:00,Moga Grain Market,cattle on rd pass moga grain market. risk of accident. jammed.,rural_hazard,6
+2025-10-06 21:52:00,Nakodar,pthl n rd nr nkdr. rsk f ccdnt. phs gy.,rural_hazard,4
+2025-10-06 22:30:00,Samrala,electric wire on rd near samrala. risk of accident. blocked.,rural_hazard,6
+2025-10-06 22:36:00,Malerkotla,electric wire on road near malerkotla. risk of accident. stopped.,rural_hazard,4
+2025-10-06 23:49:00,Jagraon Mandi,zero visibility nr jagraon mandi. heavy rain is dead. driving slow.,smog_fog,9
+2025-10-07 00:37:00,Jalandhar Bypass,zero visibility nr jalandhar bypass. slippery rd is boht heavy. driving slow.,smog_fog,7
+2025-10-07 01:43:00,Ferozepur Road,pothole on road near ferozepur road. risk of accident. jammed.,rural_hazard,6
+2025-10-07 02:02:00,Link Road #5,zero visibility pass link rd #5. heavy rain is dead. driving slow.,smog_fog,9
+2025-10-07 02:15:00,Jagraon Mandi,zero visibility near jagraon mandi. slippery road is total. driving slow.,smog_fog,9
+2025-10-07 03:09:00,Jalandhar Bypass,crossed jalandhar bypass. road clear. reaching on time.,clear,0
+2025-10-07 05:01:00,Ferozepur Road,crossed ferozepur road. rod clear. reaching on time.,clear,0
+2025-10-07 05:01:00,Sahnewal Mandi,crossed sahnewal mandi. rasta clear. reaching on time.,clear,0
+2025-10-07 05:26:00,Raikot,zero visibility pass raikot. dhund is slow. driving slow.,smog_fog,9
+2025-10-07 07:57:00,Samrala,crossed samrala. road clear. reaching on time.,clear,0
+2025-10-07 08:02:00,Moga Grain Market,my tanker stopped at moga grain market. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-07 08:26:00,Sirhind Mandi,boht heavy traffic. tractor phas gya near sirhind mandi due to slow gate entry.,harvest_traffic,6
+2025-10-07 08:31:00,Raikot,crossed raikot. road clear. reaching on time.,clear,0
+2025-10-07 08:35:00,Bathinda Refinery,crossed bathinda refinery. road clear. reaching on time.,clear,0
+2025-10-07 09:12:00,Link Road #5,crossed link rd #5. rod clear. reaching on time.,clear,0
+2025-10-07 09:32:00,Samrala,slow traffic. truck phas gya near samrala due to overloading check.,harvest_traffic,6
+2025-10-07 09:34:00,Khanna Mandi,slow traffic. tanker stuck nr khanna mandi due to slow gate entry.,harvest_traffic,4
+2025-10-07 10:51:00,Bathinda Refinery,my tanker stopped at bathinda refinery. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-07 11:42:00,NH-44,my trolley stopped at nh-44. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-07 12:17:00,Amritsar Gate,boht heavy traffic. gaadi khada hai nr amritsar gate due to slow gate entry.,harvest_traffic,6
+2025-10-07 12:24:00,Khanna Mandi,boht heavy traffic. tanker khada hai near khanna mandi due to unloading.,harvest_traffic,7
+2025-10-07 12:37:00,Bathinda Refinery,slow traffic. trolley khada hai nr bathinda refinery due to labor shortage.,harvest_traffic,4
+2025-10-07 14:19:00,Nakodar,crossed nakodar. rd clear. reaching on time.,clear,0
+2025-10-07 14:42:00,Rajpura Toll,crossed rajpura toll. road clear. reaching on time.,clear,0
+2025-10-07 14:59:00,NH-44,crossed nh-44. rod clear. reaching on time.,clear,0
+2025-10-07 16:11:00,Rajpura Toll,boht heavy traffic. canter phas gya near rajpura toll due to labor shortage.,harvest_traffic,5
+2025-10-07 16:24:00,Raikot,raikot blocked by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-07 19:18:00,Ludhiana Transport Nagar,ldhn trnsprt ngr blckd by nn blck. ttl jm. avd ths rt.,protest_dharna,10
+2025-10-07 19:19:00,Amritsar Gate,crossed amritsar gate. road clear. reaching on time.,clear,0
+2025-10-07 19:25:00,Sirhind Mandi,total traffic. truck stuck nr sirhind mandi due to labor shortage.,harvest_traffic,5
+2025-10-07 20:25:00,Samrala,zr vsblty pss smrl. hvy rn s dd. drvng slw.,smog_fog,7
+2025-10-07 22:54:00,Jalandhar Bypass,zero visibility nr jalandhar bypass. waterlogging is total. driving slow.,smog_fog,9
+2025-10-07 23:34:00,Rajpura Toll,cattle on rd pass rajpura toll. risk of accident. khada hai.,rural_hazard,4
+2025-10-08 01:12:00,Nakodar,zero visibility near nakodar. dhund is pura. driving slow.,smog_fog,8
+2025-10-08 01:20:00,Canal Road,zero visibility pass canal road. smog is pura. driving slow.,smog_fog,8
+2025-10-08 02:34:00,Doraha,crossed doraha. road clear. reaching on time.,clear,0
+2025-10-08 03:48:00,Nakodar,crossed nakodar. rasta clear. reaching on time.,clear,0
+2025-10-08 04:20:00,Doraha,zero visibility nr doraha. dhund is boht heavy. driving slow.,smog_fog,9
+2025-10-08 05:10:00,Sirhind Mandi,zero visibility near sirhind mandi. heavy rain is dead. driving slow.,smog_fog,9
+2025-10-08 06:18:00,Raikot,zero visibility near raikot. waterlogging is dead. driving slow.,smog_fog,8
+2025-10-08 06:49:00,Moga Grain Market,zero visibility nr moga grain market. slippery rd is dead. driving slow.,smog_fog,9
+2025-10-08 07:23:00,NH-44,nh-44 stopped by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-08 07:38:00,Link Road #5,link rod #5 blokd by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-08 10:05:00,Raikot,crossed raikot. rd clear. reaching on time.,clear,0
+2025-10-08 10:30:00,Machhiwara,crossed machhiwara. rd clear. reaching on time.,clear,0
+2025-10-08 11:05:00,Sirhind Mandi,dead traffic. trolley khada hai pass sirhind mandi due to slow gate entry.,harvest_traffic,4
+2025-10-08 13:44:00,Link Road #5,dead traffic. truck jammed near link rod #5 due to paddy bags.,harvest_traffic,5
+2025-10-08 13:56:00,Khanna Mandi,crossed khanna mandi. road clear. reaching on time.,clear,0
+2025-10-08 14:06:00,Nakodar,nakodar jammed by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-08 14:08:00,Jagraon Mandi,boht heavy traffic. canter stuck pass jagraon mandi due to unloading.,harvest_traffic,5
+2025-10-08 14:37:00,Moga Grain Market,slow traffic. tanker khada hai near moga grain market due to paddy bags.,harvest_traffic,4
+2025-10-08 15:40:00,Amritsar Gate,very bad traffic. gaadi blokd near amritsar gate due to slow gate entry.,harvest_traffic,6
+2025-10-08 16:18:00,Ferozepur Road,my canter stopped at ferozepur road. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-08 17:38:00,Ferozepur Road,crossed ferozepur road. road clear. reaching on time.,clear,0
+2025-10-08 18:38:00,Bathinda Refinery,crossed bathinda refinery. road clear. reaching on time.,clear,0
+2025-10-08 18:52:00,Machhiwara,my cntr stppd t mchhwr. tyr brst. nd mchnc.,vehicle_breakdown,2
+2025-10-08 20:16:00,NH-44,crossed nh-44. road clear. reaching on time.,clear,0
+2025-10-08 20:17:00,Link Road #5,pthl n rd nr lnk rd #5. rsk f ccdnt. stck.,rural_hazard,5
+2025-10-08 20:30:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. road clear. reaching on time.,clear,0
+2025-10-08 20:51:00,Ferozepur Road,stray cows on road nr ferozepur road. risk of accident. phas gya.,rural_hazard,6
+2025-10-08 21:03:00,Machhiwara,pothole on road near machhiwara. risk of accident. khada hai.,rural_hazard,5
+2025-10-08 21:16:00,Doraha,zero visibility near doraha. slippery road is total. driving slow.,smog_fog,9
+2025-10-08 21:57:00,Sirhind Mandi,zero visibility near sirhind mandi. slippery road is pura. driving slow.,smog_fog,9
+2025-10-08 23:15:00,Ferozepur Road,electric wire on road near ferozepur road. risk of accident. khada hai.,rural_hazard,3
+2025-10-08 23:17:00,Sahnewal Mandi,cattle on road near sahnewal mandi. risk of accident. khada hai.,rural_hazard,4
+2025-10-09 00:24:00,Malerkotla,crossed malerkotla. road clear. reaching on time.,clear,0
+2025-10-09 01:00:00,Malerkotla,crossed malerkotla. road clear. reaching on time.,clear,0
+2025-10-09 01:24:00,NH-44,zero visibility near nh-44. waterlogging is pura. driving slow.,smog_fog,8
+2025-10-09 01:30:00,Jalandhar Bypass,crossed jalandhar bypass. road clear. reaching on time.,clear,0
+2025-10-09 01:30:00,Moga Grain Market,zr vsblty nr mg grn mrkt. smg s vry bd. drvng slw.,smog_fog,8
+2025-10-09 01:47:00,Machhiwara,zero visibility nr machhiwara. dhund is very bad. driving slow.,smog_fog,9
+2025-10-09 03:56:00,Doraha,crossed doraha. rd clear. reaching on time.,clear,0
+2025-10-09 04:23:00,Amritsar Gate,zero visibility near amritsar gate. heavy rain is very bad. driving slow.,smog_fog,9
+2025-10-09 04:33:00,Doraha,crossed doraha. road clear. reaching on time.,clear,0
+2025-10-09 05:04:00,Moga Grain Market,crossed moga grain market. rd clear. reaching on time.,clear,0
+2025-10-09 05:58:00,GT Road,zero visibility pass gt road. waterlogging is slow. driving slow.,smog_fog,7
+2025-10-09 06:02:00,Phillaur,zero visibility near phillaur. dhund is very bad. driving slow.,smog_fog,8
+2025-10-09 06:47:00,Doraha,crossed doraha. rod clear. reaching on time.,clear,0
+2025-10-09 07:21:00,Raikot,crossed raikot. rod clear. reaching on time.,clear,0
+2025-10-09 07:22:00,Canal Road,canal road blokd by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-09 07:59:00,Raikot,raikot jammed by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-09 07:59:00,Machhiwara,dead traffic. canter blocked near machhiwara due to slow gate entry.,harvest_traffic,7
+2025-10-09 08:04:00,GT Road,dead traffic. trolley jammed near gt road due to overloading check.,harvest_traffic,7
+2025-10-09 08:22:00,Rajpura Toll,rajpura toll phas gya by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-09 09:17:00,Ferozepur Road,slow traffic. tractor stopped pass ferozepur road due to paddy bags.,harvest_traffic,4
+2025-10-09 12:19:00,Moga Grain Market,moga grain market khada hai by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-09 14:13:00,Samrala,pura traffic. gaadi blocked near samrala due to paddy bags.,harvest_traffic,7
+2025-10-09 14:26:00,Rajpura Toll,boht heavy traffic. tanker jammed near rajpura toll due to labor shortage.,harvest_traffic,6
+2025-10-09 15:55:00,Bathinda Refinery,my tanker stopped at bathinda refinery. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-09 16:41:00,Doraha,my canter stopped at doraha. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-09 16:50:00,Moga Grain Market,moga grain market khada hai by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-09 17:09:00,Link Road #5,dead traffic. canter stuck near link road #5 due to paddy bags.,harvest_traffic,4
+2025-10-09 17:17:00,GT Road,gt rd stuck by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-09 17:28:00,Bathinda Refinery,crossed bathinda refinery. rod clear. reaching on time.,clear,0
+2025-10-09 18:47:00,Amritsar Gate,amritsar gate stuck by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-09 18:54:00,Machhiwara,machhiwara blocked by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-09 19:01:00,Bathinda Refinery,crossed bathinda refinery. road clear. reaching on time.,clear,0
+2025-10-09 19:56:00,NH-44,boht heavy traffic. trolley stuck near nh-44 due to unloading.,harvest_traffic,7
+2025-10-09 20:48:00,Sahnewal Mandi,mud on rasta nr sahnewal mandi. risk of accident. stopped.,rural_hazard,6
+2025-10-09 21:49:00,Nakodar,zr vsblty nr nkdr. hvy rn s pr. drvng slw.,smog_fog,7
+2025-10-09 22:10:00,Ferozepur Road,zero visibility near ferozepur road. fog is slow. driving slow.,smog_fog,9
+2025-10-09 22:45:00,Doraha,zero visibility near doraha. smog is boht heavy. driving slow.,smog_fog,9
+2025-10-09 23:23:00,Canal Road,crossed canal road. road clear. reaching on time.,clear,0
+2025-10-09 23:25:00,Samrala,zr vsblty nr smrl. wtrlggng s ttl. drvng slw.,smog_fog,9
+2025-10-09 23:47:00,Jagraon Mandi,cattle on road nr jagraon mandi. risk of accident. jammed.,rural_hazard,6
+2025-10-10 01:40:00,Samrala,zero visibility pass samrala. heavy rain is dead. driving slow.,smog_fog,9
+2025-10-10 01:44:00,Machhiwara,zero visibility near machhiwara. slippery rod is dead. driving slow.,smog_fog,7
+2025-10-10 02:07:00,GT Road,zero visibility nr gt road. dhund is dead. driving slow.,smog_fog,7
+2025-10-10 02:14:00,Machhiwara,electric wire on road pass machhiwara. risk of accident. stuck.,rural_hazard,5
+2025-10-10 02:29:00,Samrala,mud on road near samrala. risk of accident. phas gya.,rural_hazard,4
+2025-10-10 02:54:00,Rajpura Toll,stray cows on road near rajpura toll. risk of accident. phas gya.,rural_hazard,6
+2025-10-10 03:49:00,Samrala,cattle on rd nr samrala. risk of accident. stuck.,rural_hazard,5
+2025-10-10 04:59:00,Machhiwara,zero visibility near machhiwara. slippery road is total. driving slow.,smog_fog,9
+2025-10-10 05:28:00,Khanna Mandi,zero visibility near khanna mandi. heavy rain is total. driving slow.,smog_fog,7
+2025-10-10 05:31:00,Canal Road,cattle on rod near canal road. risk of accident. khada hai.,rural_hazard,4
+2025-10-10 08:31:00,Ludhiana Transport Nagar,ttl trffc. trck jmmd nr ldhn trnsprt ngr d t lbr shrtg.,harvest_traffic,4
+2025-10-10 09:15:00,Jagraon Mandi,jagraon mandi stopped by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-10 10:22:00,Raikot,pura traffic. truck blokd near raikot due to paddy bags.,harvest_traffic,6
+2025-10-10 10:58:00,Canal Road,dead traffic. tanker blocked nr canal road due to overloading check.,harvest_traffic,4
+2025-10-10 11:51:00,Moga Grain Market,moga grain market phas gya by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-10 12:02:00,Amritsar Gate,amritsar gate stuck by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-10 12:36:00,Phillaur,pura traffic. truck jammed near phillaur due to slow gate entry.,harvest_traffic,6
+2025-10-10 13:46:00,Bathinda Refinery,dead traffic. tanker jammed near bathinda refinery due to slow gate entry.,harvest_traffic,4
+2025-10-10 14:33:00,Khanna Mandi,total traffic. tractor stopped pass khanna mandi due to unloading.,harvest_traffic,7
+2025-10-10 15:21:00,NH-44,my gaadi stopped at nh-44. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-10 15:29:00,Jagraon Mandi,boht heavy traffic. trolley khada hai near jagraon mandi due to slow gate entry.,harvest_traffic,4
+2025-10-10 15:31:00,Phillaur,my truck stopped at phillaur. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-10 15:33:00,Phillaur,my tanker stopped at phillaur. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-10 17:41:00,Bathinda Refinery,dead traffic. tractor phas gya near bathinda refinery due to unloading.,harvest_traffic,6
+2025-10-10 18:18:00,Ferozepur Road,ferozepur rod stopped by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-10 21:39:00,Sahnewal Mandi,zero visibility near sahnewal mandi. heavy rain is dead. driving slow.,smog_fog,7
+2025-10-10 21:55:00,Nakodar,crossed nakodar. road clear. reaching on time.,clear,0
+2025-10-10 23:06:00,Jalandhar Bypass,crossed jalandhar bypass. road clear. reaching on time.,clear,0
+2025-10-11 00:35:00,Machhiwara,stray cows on road near machhiwara. risk of accident. stopped.,rural_hazard,3
+2025-10-11 01:06:00,Raikot,zero visibility nr raikot. smog is dead. driving slow.,smog_fog,9
+2025-10-11 05:02:00,Rajpura Toll,zero visibility near rajpura toll. smog is total. driving slow.,smog_fog,8
+2025-10-11 05:34:00,NH-44,zr vsblty nr nh-44. hvy rn s slw. drvng slw.,smog_fog,7
+2025-10-11 07:49:00,Khanna Mandi,my cntr stppd t khnn mnd. brk fl. nd mchnc.,vehicle_breakdown,2
+2025-10-11 08:22:00,GT Road,pr trffc. cntr stck pss gt rd d t nldng.,harvest_traffic,5
+2025-10-11 08:38:00,Nakodar,dead traffic. gaadi blocked near nakodar due to slow gate entry.,harvest_traffic,5
+2025-10-11 09:25:00,Moga Grain Market,very bad traffic. canter blokd near moga grain market due to labor shortage.,harvest_traffic,5
+2025-10-11 09:44:00,Nakodar,boht heavy traffic. truck phas gya near nakodar due to overloading check.,harvest_traffic,5
+2025-10-11 10:08:00,Bathinda Refinery,boht heavy traffic. trolley stopped nr bathinda refinery due to slow gate entry.,harvest_traffic,6
+2025-10-11 10:35:00,Sirhind Mandi,sirhind mandi stopped by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-11 10:45:00,Ludhiana Transport Nagar,my tanker stopped at ludhiana transport nagar. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-11 12:55:00,Rajpura Toll,rajpura toll stopped by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-11 13:39:00,Doraha,total traffic. truck blocked near doraha due to paddy bags.,harvest_traffic,7
+2025-10-11 14:30:00,Moga Grain Market,ttl trffc. trlly khd h nr mg grn mrkt d t lbr shrtg.,harvest_traffic,6
+2025-10-11 14:55:00,Link Road #5,my tanker stopped at link road #5. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-11 15:36:00,Malerkotla,my canter stopped at malerkotla. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-11 15:46:00,Link Road #5,crossed link road #5. road clear. reaching on time.,clear,0
+2025-10-11 16:22:00,NH-44,nh-44 blocked by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-11 16:35:00,Link Road #5,crossed link road #5. road clear. reaching on time.,clear,0
+2025-10-11 16:58:00,GT Road,my truck stopped at gt road. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-11 17:01:00,Canal Road,crossed canal road. rd clear. reaching on time.,clear,0
+2025-10-11 17:15:00,NH-44,crssd nh-44. rd clr. rchng n tm.,clear,0
+2025-10-11 17:17:00,Khanna Mandi,crssd khnn mnd. rd clr. rchng n tm.,clear,0
+2025-10-11 17:31:00,Jalandhar Bypass,jalandhar bypass stopped by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-11 17:41:00,Canal Road,my tanker stopped at canal road. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-11 18:57:00,Raikot,dead traffic. tractor phas gya near raikot due to labor shortage.,harvest_traffic,7
+2025-10-11 19:37:00,Bathinda Refinery,crossed bathinda refinery. road clear. reaching on time.,clear,0
+2025-10-11 19:37:00,Machhiwara,machhiwara khada hai by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-11 19:48:00,Ferozepur Road,ferozepur rasta stuck by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-11 19:54:00,Jalandhar Bypass,my trolley stopped at jalandhar bypass. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-11 20:00:00,Jagraon Mandi,zero visibility nr jagraon mandi. slippery road is dead. driving slow.,smog_fog,9
+2025-10-11 20:27:00,Ludhiana Transport Nagar,stray cows on road near ludhiana transport nagar. risk of accident. jammed.,rural_hazard,3
+2025-10-11 22:02:00,NH-44,zero visibility near nh-44. smog is pura. driving slow.,smog_fog,7
+2025-10-12 00:46:00,Bathinda Refinery,crossed bathinda refinery. rasta clear. reaching on time.,clear,0
+2025-10-12 01:12:00,Malerkotla,crossed malerkotla. road clear. reaching on time.,clear,0
+2025-10-12 01:59:00,Ferozepur Road,mud on road near ferozepur road. risk of accident. blocked.,rural_hazard,3
+2025-10-12 02:21:00,Amritsar Gate,pthl n rd nr amrtsr gt. rsk f ccdnt. khd h.,rural_hazard,6
+2025-10-12 02:42:00,Machhiwara,zero visibility near machhiwara. fog is slow. driving slow.,smog_fog,7
+2025-10-12 03:04:00,Sirhind Mandi,electric wire on road near sirhind mandi. risk of accident. stuck.,rural_hazard,6
+2025-10-12 04:28:00,Moga Grain Market,zero visibility near moga grain market. smog is slow. driving slow.,smog_fog,7
+2025-10-12 04:34:00,Moga Grain Market,zero visibility nr moga grain market. heavy rain is pura. driving slow.,smog_fog,9
+2025-10-12 05:04:00,Sahnewal Mandi,zr vsblty nr shnwl mnd. smg s vry bd. drvng slw.,smog_fog,8
+2025-10-12 07:36:00,NH-44,pura traffic. gaadi stuck near nh-44 due to paddy bags.,harvest_traffic,7
+2025-10-12 08:00:00,Link Road #5,dead traffic. gaadi khada hai near link road #5 due to paddy bags.,harvest_traffic,7
+2025-10-12 08:14:00,Samrala,crossed samrala. rasta clear. reaching on time.,clear,0
+2025-10-12 09:12:00,GT Road,very bad traffic. tanker stopped near gt road due to overloading check.,harvest_traffic,6
+2025-10-12 09:14:00,Sahnewal Mandi,my gaadi stopped at sahnewal mandi. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-12 09:33:00,Amritsar Gate,my gaadi stopped at amritsar gate. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-12 10:07:00,NH-44,slow traffic. canter stuck near nh-44 due to paddy bags.,harvest_traffic,4
+2025-10-12 10:49:00,Link Road #5,total traffic. gaadi stopped pass link road #5 due to labor shortage.,harvest_traffic,5
+2025-10-12 11:01:00,Sahnewal Mandi,crossed sahnewal mandi. road clear. reaching on time.,clear,0
+2025-10-12 11:38:00,Rajpura Toll,very bad traffic. tractor blocked near rajpura toll due to labor shortage.,harvest_traffic,5
+2025-10-12 11:52:00,Link Road #5,link rasta #5 khada hai by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-12 12:45:00,Doraha,doraha stopped by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-12 14:13:00,Doraha,doraha stuck by rod roko. total jam. avoid this route.,protest_dharna,10
+2025-10-12 14:37:00,Machhiwara,mchhwr khd h by dhrn. ttl jm. avd ths rt.,protest_dharna,10
+2025-10-12 15:43:00,Machhiwara,my canter stopped at machhiwara. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-12 18:19:00,GT Road,my gaadi stopped at gt road. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-12 18:27:00,Phillaur,very bad traffic. truck khada hai near phillaur due to overloading check.,harvest_traffic,5
+2025-10-12 20:43:00,Amritsar Gate,crssd amrtsr gt. rd clr. rchng n tm.,clear,0
+2025-10-12 22:38:00,Ludhiana Transport Nagar,electric wire on road near ludhiana transport nagar. risk of accident. stuck.,rural_hazard,6
+2025-10-12 22:43:00,Sirhind Mandi,zero visibility pass sirhind mandi. smog is boht heavy. driving slow.,smog_fog,9
+2025-10-12 23:20:00,Sirhind Mandi,electric wire on road nr sirhind mandi. risk of accident. khada hai.,rural_hazard,3
+2025-10-12 23:52:00,Moga Grain Market,zero visibility near moga grain market. heavy rain is dead. driving slow.,smog_fog,8
+2025-10-12 23:53:00,Canal Road,crossed canal road. rod clear. reaching on time.,clear,0
+2025-10-13 00:25:00,Jalandhar Bypass,cattle on road near jalandhar bypass. risk of accident. stopped.,rural_hazard,6
+2025-10-13 00:26:00,Khanna Mandi,cattle on road near khanna mandi. risk of accident. khada hai.,rural_hazard,6
+2025-10-13 00:48:00,Canal Road,zero visibility near canal road. dhund is pura. driving slow.,smog_fog,9
+2025-10-13 02:03:00,Amritsar Gate,zr vsblty nr amrtsr gt. smg s vry bd. drvng slw.,smog_fog,8
+2025-10-13 02:17:00,Ferozepur Road,zero visibility nr ferozepur road. slippery road is very bad. driving slow.,smog_fog,7
+2025-10-13 02:18:00,Sirhind Mandi,zr vsblty pss srhnd mnd. slppry rd s vry bd. drvng slw.,smog_fog,7
+2025-10-13 02:49:00,Doraha,zero visibility near doraha. heavy rain is slow. driving slow.,smog_fog,9
+2025-10-13 03:48:00,Malerkotla,stray cows on rod near malerkotla. risk of accident. stopped.,rural_hazard,4
+2025-10-13 04:13:00,Ferozepur Road,stray cows on rod near ferozepur road. risk of accident. khada hai.,rural_hazard,6
+2025-10-13 05:26:00,Nakodar,crossed nakodar. rasta clear. reaching on time.,clear,0
+2025-10-13 07:56:00,GT Road,gt road stuck by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-13 08:59:00,Jalandhar Bypass,boht heavy traffic. tanker khada hai near jalandhar bypass due to labor shortage.,harvest_traffic,6
+2025-10-13 09:29:00,Link Road #5,lnk rd #5 blckd by dhrn. ttl jm. avd ths rt.,protest_dharna,10
+2025-10-13 10:13:00,Ferozepur Road,crossed ferozepur road. rasta clear. reaching on time.,clear,0
+2025-10-13 11:29:00,Ferozepur Road,boht heavy traffic. truck blocked nr ferozepur road due to slow gate entry.,harvest_traffic,5
+2025-10-13 11:32:00,Khanna Mandi,my tractor stopped at khanna mandi. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-13 11:51:00,Malerkotla,vry bd trffc. cntr jmmd nr mlrktl d t lbr shrtg.,harvest_traffic,5
+2025-10-13 14:29:00,GT Road,dead traffic. tractor phas gya near gt rasta due to unloading.,harvest_traffic,5
+2025-10-13 15:35:00,Ferozepur Road,my canter stopped at ferozepur road. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-13 15:54:00,Rajpura Toll,slow traffic. tractor blocked near rajpura toll due to paddy bags.,harvest_traffic,5
+2025-10-13 18:29:00,Sahnewal Mandi,boht heavy traffic. canter khada hai near sahnewal mandi due to slow gate entry.,harvest_traffic,5
+2025-10-13 19:43:00,Khanna Mandi,crossed khanna mandi. road clear. reaching on time.,clear,0
+2025-10-13 19:47:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. road clear. reaching on time.,clear,0
+2025-10-13 19:47:00,Nakodar,crossed nakodar. road clear. reaching on time.,clear,0
+2025-10-13 20:23:00,Sahnewal Mandi,zero visibility near sahnewal mandi. fog is boht heavy. driving slow.,smog_fog,9
+2025-10-13 20:30:00,Ferozepur Road,crossed ferozepur road. road clear. reaching on time.,clear,0
+2025-10-13 20:35:00,Moga Grain Market,crossed moga grain market. road clear. reaching on time.,clear,0
+2025-10-13 21:33:00,Sirhind Mandi,cattle on rasta near sirhind mandi. risk of accident. khada hai.,rural_hazard,4
+2025-10-13 21:47:00,Bathinda Refinery,zero visibility near bathinda refinery. dhund is pura. driving slow.,smog_fog,9
+2025-10-13 22:04:00,Raikot,electric wire on road pass raikot. risk of accident. stopped.,rural_hazard,3
+2025-10-13 22:32:00,Doraha,electric wire on road near doraha. risk of accident. khada hai.,rural_hazard,4
+2025-10-13 22:43:00,Jagraon Mandi,zero visibility near jagraon mandi. smog is dead. driving slow.,smog_fog,7
+2025-10-13 22:52:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. road clear. reaching on time.,clear,0
+2025-10-13 23:21:00,Sahnewal Mandi,zero visibility near sahnewal mandi. waterlogging is pura. driving slow.,smog_fog,9
+2025-10-14 01:56:00,Phillaur,crossed phillaur. road clear. reaching on time.,clear,0
+2025-10-14 04:17:00,Khanna Mandi,crossed khanna mandi. road clear. reaching on time.,clear,0
+2025-10-14 04:57:00,GT Road,zero visibility near gt road. smog is total. driving slow.,smog_fog,7
+2025-10-14 05:24:00,Ludhiana Transport Nagar,zero visibility near ludhiana transport nagar. fog is very bad. driving slow.,smog_fog,8
+2025-10-14 05:44:00,Nakodar,zero visibility nr nakodar. waterlogging is dead. driving slow.,smog_fog,9
+2025-10-14 05:55:00,Machhiwara,stray cows on rasta pass machhiwara. risk of accident. jammed.,rural_hazard,5
+2025-10-14 06:01:00,Phillaur,crssd phllr. rd clr. rchng n tm.,clear,0
+2025-10-14 06:39:00,Malerkotla,crossed malerkotla. rd clear. reaching on time.,clear,0
+2025-10-14 06:51:00,NH-44,zero visibility near nh-44. smog is very bad. driving slow.,smog_fog,7
+2025-10-14 07:03:00,Canal Road,total traffic. canter phas gya nr canal road due to unloading.,harvest_traffic,7
+2025-10-14 07:33:00,Phillaur,slow traffic. canter blocked near phillaur due to unloading.,harvest_traffic,5
+2025-10-14 07:36:00,Moga Grain Market,crssd mg grn mrkt. rd clr. rchng n tm.,clear,0
+2025-10-14 07:48:00,Khanna Mandi,crossed khanna mandi. road clear. reaching on time.,clear,0
+2025-10-14 07:54:00,Raikot,my gaadi stopped at raikot. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-14 10:10:00,Amritsar Gate,crossed amritsar gate. road clear. reaching on time.,clear,0
+2025-10-14 10:54:00,Canal Road,canal road stuck by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-14 10:54:00,Malerkotla,my gaadi stopped at malerkotla. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-14 11:04:00,Phillaur,dead traffic. tanker stuck nr phillaur due to overloading check.,harvest_traffic,7
+2025-10-14 12:07:00,Moga Grain Market,very bad traffic. trolley phas gya nr moga grain market due to paddy bags.,harvest_traffic,5
+2025-10-14 12:52:00,Jagraon Mandi,crossed jagraon mandi. road clear. reaching on time.,clear,0
+2025-10-14 14:27:00,Rajpura Toll,crssd rjpr tll. rd clr. rchng n tm.,clear,0
+2025-10-14 14:38:00,Phillaur,crossed phillaur. road clear. reaching on time.,clear,0
+2025-10-14 14:54:00,Samrala,crossed samrala. road clear. reaching on time.,clear,0
+2025-10-14 15:30:00,Sahnewal Mandi,crossed sahnewal mandi. rod clear. reaching on time.,clear,0
+2025-10-14 16:30:00,Bathinda Refinery,very bad traffic. trolley stopped near bathinda refinery due to slow gate entry.,harvest_traffic,6
+2025-10-14 17:19:00,Doraha,very bad traffic. truck stuck near doraha due to slow gate entry.,harvest_traffic,7
+2025-10-14 17:38:00,Ferozepur Road,boht heavy traffic. canter stopped nr ferozepur road due to labor shortage.,harvest_traffic,7
+2025-10-14 20:28:00,Phillaur,elctrc wr n rd nr phllr. rsk f ccdnt. stppd.,rural_hazard,5
+2025-10-14 20:29:00,Canal Road,zero visibility near canal road. heavy rain is dead. driving slow.,smog_fog,9
+2025-10-14 21:25:00,Sahnewal Mandi,crossed sahnewal mandi. road clear. reaching on time.,clear,0
+2025-10-14 21:36:00,Phillaur,zero visibility near phillaur. fog is total. driving slow.,smog_fog,8
+2025-10-14 21:52:00,Canal Road,zero visibility near canal road. waterlogging is boht heavy. driving slow.,smog_fog,7
+2025-10-14 22:06:00,Phillaur,md n rd pss phllr. rsk f ccdnt. phs gy.,rural_hazard,4
+2025-10-14 22:09:00,Amritsar Gate,zero visibility near amritsar gate. slippery rod is very bad. driving slow.,smog_fog,8
+2025-10-14 23:34:00,Canal Road,mud on road near canal road. risk of accident. blocked.,rural_hazard,6
+2025-10-15 00:00:00,Nakodar,cattle on rd near nakodar. risk of accident. phas gya.,rural_hazard,3
+2025-10-15 00:53:00,Phillaur,zero visibility near phillaur. dhund is dead. driving slow.,smog_fog,8
+2025-10-15 01:09:00,Rajpura Toll,stray cows on road near rajpura toll. risk of accident. stuck.,rural_hazard,6
+2025-10-15 01:15:00,Nakodar,electric wire on road pass nakodar. risk of accident. stuck.,rural_hazard,6
+2025-10-15 04:24:00,Link Road #5,elctrc wr n rd nr lnk rd #5. rsk f ccdnt. jmmd.,rural_hazard,4
+2025-10-15 05:26:00,Jagraon Mandi,zr vsblty nr jgrn mnd. dhnd s slw. drvng slw.,smog_fog,8
+2025-10-15 06:07:00,Rajpura Toll,zero visibility pass rajpura toll. waterlogging is very bad. driving slow.,smog_fog,8
+2025-10-15 07:10:00,Bathinda Refinery,bathinda refinery block by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-15 07:15:00,Moga Grain Market,very bad traffic. canter phas gya near moga grain market due to unloading.,harvest_traffic,4
+2025-10-15 10:10:00,Sirhind Mandi,my canter stopped at sirhind mandi. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-15 10:10:00,Ferozepur Road,ferozepur rod jammed by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-15 10:53:00,Sirhind Mandi,dead traffic. canter khada hai near sirhind mandi due to labor shortage.,harvest_traffic,5
+2025-10-15 11:47:00,NH-44,my canter stopped at nh-44. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-15 11:59:00,Amritsar Gate,boht heavy traffic. gaadi stuck pass amritsar gate due to labor shortage.,harvest_traffic,6
+2025-10-15 13:12:00,GT Road,gt road jammed by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-15 13:41:00,Rajpura Toll,my canter stopped at rajpura toll. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-15 14:03:00,Machhiwara,crossed machhiwara. road clear. reaching on time.,clear,0
+2025-10-15 16:08:00,Machhiwara,crossed machhiwara. road clear. reaching on time.,clear,0
+2025-10-15 17:29:00,NH-44,crossed nh-44. road clear. reaching on time.,clear,0
+2025-10-15 18:16:00,Jalandhar Bypass,my canter stopped at jalandhar bypass. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-15 18:39:00,NH-44,crssd nh-44. rd clr. rchng n tm.,clear,0
+2025-10-15 19:40:00,Sahnewal Mandi,boht heavy traffic. tanker jammed near sahnewal mandi due to labor shortage.,harvest_traffic,6
+2025-10-15 19:46:00,Jalandhar Bypass,slow traffic. truck jammed pass jalandhar bypass due to unloading.,harvest_traffic,7
+2025-10-15 20:41:00,Doraha,mud on road near doraha. risk of accident. phas gya.,rural_hazard,5
+2025-10-15 21:16:00,Rajpura Toll,zero visibility near rajpura toll. heavy rain is boht heavy. driving slow.,smog_fog,9
+2025-10-15 21:58:00,Amritsar Gate,stray cows on road nr amritsar gate. risk of accident. jammed.,rural_hazard,5
+2025-10-15 22:12:00,Khanna Mandi,zero visibility near khanna mandi. slippery road is pura. driving slow.,smog_fog,8
+2025-10-16 00:00:00,Bathinda Refinery,zero visibility near bathinda refinery. slippery road is slow. driving slow.,smog_fog,9
+2025-10-16 01:06:00,Malerkotla,pothole on road near malerkotla. risk of accident. blocked.,rural_hazard,6
+2025-10-16 01:12:00,Jagraon Mandi,crossed jagraon mandi. rd clear. reaching on time.,clear,0
+2025-10-16 01:43:00,Rajpura Toll,zero visibility near rajpura toll. smog is boht heavy. driving slow.,smog_fog,9
+2025-10-16 02:31:00,Khanna Mandi,zero visibility pass khanna mandi. heavy rain is slow. driving slow.,smog_fog,7
+2025-10-16 04:37:00,Moga Grain Market,zero visibility near moga grain market. smog is total. driving slow.,smog_fog,8
+2025-10-16 04:41:00,Sahnewal Mandi,zero visibility near sahnewal mandi. dhund is total. driving slow.,smog_fog,8
+2025-10-16 05:28:00,Sirhind Mandi,zero visibility near sirhind mandi. heavy rain is boht heavy. driving slow.,smog_fog,7
+2025-10-16 05:40:00,Raikot,crossed raikot. rd clear. reaching on time.,clear,0
+2025-10-16 08:45:00,Link Road #5,crossed link rasta #5. rasta clear. reaching on time.,clear,0
+2025-10-16 09:10:00,Samrala,total traffic. gaadi stuck nr samrala due to slow gate entry.,harvest_traffic,6
+2025-10-16 10:19:00,Raikot,dead traffic. tanker block near raikot due to paddy bags.,harvest_traffic,7
+2025-10-16 10:45:00,Canal Road,dead traffic. tractor phas gya near canal rd due to unloading.,harvest_traffic,6
+2025-10-16 11:17:00,Machhiwara,slow traffic. trolley phas gya near machhiwara due to overloading check.,harvest_traffic,6
+2025-10-16 11:21:00,NH-44,my truck stopped at nh-44. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-16 12:03:00,Sahnewal Mandi,total traffic. gaadi blocked nr sahnewal mandi due to overloading check.,harvest_traffic,5
+2025-10-16 13:57:00,NH-44,my truck stopped at nh-44. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-16 14:19:00,Machhiwara,total traffic. trolley phas gya near machhiwara due to paddy bags.,harvest_traffic,7
+2025-10-16 14:55:00,Canal Road,my truck stopped at canal road. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-16 15:32:00,Malerkotla,boht heavy traffic. truck stopped near malerkotla due to paddy bags.,harvest_traffic,6
+2025-10-16 16:06:00,Ferozepur Road,frzpr rd blckd by strk. ttl jm. avd ths rt.,protest_dharna,10
+2025-10-16 16:08:00,Moga Grain Market,ttl trffc. trck stck nr mg grn mrkt d t lbr shrtg.,harvest_traffic,5
+2025-10-16 17:13:00,Nakodar,vry bd trffc. tnkr stck nr nkdr d t pddy bgs.,harvest_traffic,7
+2025-10-16 17:24:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. rasta clear. reaching on time.,clear,0
+2025-10-16 18:09:00,Rajpura Toll,rajpura toll jammed by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-16 18:21:00,Raikot,raikot jammed by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-16 18:35:00,Link Road #5,pr trffc. gd jmmd nr lnk rd #5 d t pddy bgs.,harvest_traffic,6
+2025-10-16 21:05:00,NH-44,cattle on road near nh-44. risk of accident. khada hai.,rural_hazard,6
+2025-10-17 00:10:00,Malerkotla,cattle on road pass malerkotla. risk of accident. stopped.,rural_hazard,3
+2025-10-17 00:37:00,Ferozepur Road,zero visibility near ferozepur road. dhund is dead. driving slow.,smog_fog,7
+2025-10-17 01:49:00,Moga Grain Market,stry cws n rd nr mg grn mrkt. rsk f ccdnt. blckd.,rural_hazard,4
+2025-10-17 02:57:00,Doraha,crossed doraha. road clear. reaching on time.,clear,0
+2025-10-17 04:41:00,Ferozepur Road,zero visibility nr ferozepur road. fog is slow. driving slow.,smog_fog,7
+2025-10-17 04:44:00,Jagraon Mandi,zero visibility near jagraon mandi. heavy rain is boht heavy. driving slow.,smog_fog,8
+2025-10-17 04:52:00,Machhiwara,crssd mchhwr. rd clr. rchng n tm.,clear,0
+2025-10-17 04:55:00,Phillaur,zero visibility nr phillaur. waterlogging is very bad. driving slow.,smog_fog,8
+2025-10-17 08:00:00,Rajpura Toll,rajpura toll jammed by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-17 08:38:00,Ferozepur Road,boht heavy traffic. canter jammed near ferozepur rasta due to overloading check.,harvest_traffic,5
+2025-10-17 09:18:00,Ferozepur Road,my tractor stopped at ferozepur road. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-17 10:19:00,Jalandhar Bypass,crossed jalandhar bypass. road clear. reaching on time.,clear,0
+2025-10-17 10:22:00,Nakodar,nakodar stuck by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-17 10:35:00,Canal Road,crossed canal road. road clear. reaching on time.,clear,0
+2025-10-17 10:54:00,Phillaur,pura traffic. canter phas gya near phillaur due to overloading check.,harvest_traffic,5
+2025-10-17 11:49:00,Ludhiana Transport Nagar,total traffic. gaadi khada hai near ludhiana transport nagar due to paddy bags.,harvest_traffic,6
+2025-10-17 11:54:00,Malerkotla,very bad traffic. truck khada hai pass malerkotla due to paddy bags.,harvest_traffic,5
+2025-10-17 11:59:00,Sahnewal Mandi,my tractor stopped at sahnewal mandi. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-17 12:07:00,Canal Road,total traffic. canter stopped nr canal road due to paddy bags.,harvest_traffic,5
+2025-10-17 12:32:00,Amritsar Gate,crossed amritsar gate. road clear. reaching on time.,clear,0
+2025-10-17 12:39:00,GT Road,crossed gt road. road clear. reaching on time.,clear,0
+2025-10-17 13:20:00,Canal Road,pura traffic. canter phas gya near canal rod due to unloading.,harvest_traffic,5
+2025-10-17 14:40:00,Doraha,very bad traffic. truck blocked near doraha due to overloading check.,harvest_traffic,6
+2025-10-17 16:33:00,NH-44,dead traffic. gaadi stopped near nh-44 due to labor shortage.,harvest_traffic,7
+2025-10-17 17:04:00,Raikot,total traffic. truck stopped near raikot due to overloading check.,harvest_traffic,5
+2025-10-17 17:37:00,NH-44,my tractor stopped at nh-44. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-17 18:05:00,Jalandhar Bypass,jalandhar bypass blocked by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-17 18:10:00,Raikot,my tanker stopped at raikot. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-17 19:55:00,Rajpura Toll,crossed rajpura toll. road clear. reaching on time.,clear,0
+2025-10-17 21:05:00,Amritsar Gate,zr vsblty nr amrtsr gt. smg s slw. drvng slw.,smog_fog,8
+2025-10-17 21:15:00,Raikot,pothole on road near raikot. risk of accident. blocked.,rural_hazard,4
+2025-10-17 21:53:00,Nakodar,crossed nakodar. road clear. reaching on time.,clear,0
+2025-10-17 22:31:00,Link Road #5,crossed link road #5. rasta clear. reaching on time.,clear,0
+2025-10-17 22:36:00,NH-44,zero visibility near nh-44. waterlogging is pura. driving slow.,smog_fog,7
+2025-10-17 22:53:00,Malerkotla,crossed malerkotla. rod clear. reaching on time.,clear,0
+2025-10-17 23:37:00,Phillaur,zero visibility near phillaur. heavy rain is pura. driving slow.,smog_fog,8
+2025-10-18 00:01:00,Phillaur,zero visibility near phillaur. smog is very bad. driving slow.,smog_fog,8
+2025-10-18 00:49:00,Canal Road,cattle on road nr canal road. risk of accident. phas gya.,rural_hazard,6
+2025-10-18 01:09:00,Link Road #5,zero visibility near link road #5. slippery road is very bad. driving slow.,smog_fog,7
+2025-10-18 01:10:00,Khanna Mandi,zr vsblty nr khnn mnd. wtrlggng s ttl. drvng slw.,smog_fog,8
+2025-10-18 01:56:00,Amritsar Gate,zero visibility near amritsar gate. fog is very bad. driving slow.,smog_fog,9
+2025-10-18 02:09:00,Link Road #5,crossed link road #5. rasta clear. reaching on time.,clear,0
+2025-10-18 02:50:00,Ferozepur Road,zero visibility nr ferozepur road. dhund is pura. driving slow.,smog_fog,7
+2025-10-18 03:42:00,Moga Grain Market,zr vsblty nr mg grn mrkt. hvy rn s bht hvy. drvng slw.,smog_fog,7
+2025-10-18 04:27:00,Bathinda Refinery,pothole on road near bathinda refinery. risk of accident. jammed.,rural_hazard,3
+2025-10-18 04:55:00,Ferozepur Road,mud on road near ferozepur road. risk of accident. khada hai.,rural_hazard,3
+2025-10-18 04:57:00,Jalandhar Bypass,pothole on rod near jalandhar bypass. risk of accident. stopped.,rural_hazard,6
+2025-10-18 05:34:00,Sirhind Mandi,zero visibility near sirhind mandi. smog is total. driving slow.,smog_fog,8
+2025-10-18 06:41:00,NH-44,zero visibility near nh-44. fog is slow. driving slow.,smog_fog,9
+2025-10-18 07:35:00,Bathinda Refinery,pura traffic. truck blocked pass bathinda refinery due to unloading.,harvest_traffic,5
+2025-10-18 08:07:00,Malerkotla,malerkotla stopped by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-18 09:11:00,Rajpura Toll,very bad traffic. truck jammed near rajpura toll due to overloading check.,harvest_traffic,7
+2025-10-18 10:09:00,Rajpura Toll,crossed rajpura toll. rd clear. reaching on time.,clear,0
+2025-10-18 10:57:00,Khanna Mandi,boht heavy traffic. tanker blocked near khanna mandi due to paddy bags.,harvest_traffic,5
+2025-10-18 10:58:00,Moga Grain Market,moga grain market band by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-18 11:54:00,Bathinda Refinery,my trlly stppd t bthnd rfnry. tyr brst. nd mchnc.,vehicle_breakdown,2
+2025-10-18 12:50:00,Bathinda Refinery,bathinda refinery jammed by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-18 13:48:00,Machhiwara,boht heavy traffic. canter khada hai near machhiwara due to paddy bags.,harvest_traffic,6
+2025-10-18 14:11:00,Jalandhar Bypass,crossed jalandhar bypass. rod clear. reaching on time.,clear,0
+2025-10-18 15:08:00,Machhiwara,crossed machhiwara. rasta clear. reaching on time.,clear,0
+2025-10-18 16:17:00,Link Road #5,pura traffic. tanker jammed nr link road #5 due to unloading.,harvest_traffic,7
+2025-10-18 16:31:00,Jagraon Mandi,crossed jagraon mandi. road clear. reaching on time.,clear,0
+2025-10-18 16:57:00,Phillaur,my gaadi stopped at phillaur. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-18 17:59:00,Machhiwara,crssd mchhwr. rd clr. rchng n tm.,clear,0
+2025-10-18 19:43:00,Sirhind Mandi,crossed sirhind mandi. road clear. reaching on time.,clear,0
+2025-10-18 22:21:00,NH-44,stray cows on road near nh-44. risk of accident. khada hai.,rural_hazard,3
+2025-10-18 23:04:00,Malerkotla,zero visibility nr malerkotla. waterlogging is pura. driving slow.,smog_fog,8
+2025-10-18 23:32:00,Ferozepur Road,zero visibility nr ferozepur road. fog is very bad. driving slow.,smog_fog,9
+2025-10-19 00:41:00,Ludhiana Transport Nagar,electric wire on road nr ludhiana transport nagar. risk of accident. jammed.,rural_hazard,4
+2025-10-19 02:19:00,Link Road #5,crossed link road #5. road clear. reaching on time.,clear,0
+2025-10-19 04:57:00,Sirhind Mandi,zero visibility near sirhind mandi. fog is pura. driving slow.,smog_fog,7
+2025-10-19 05:25:00,Moga Grain Market,crossed moga grain market. road clear. reaching on time.,clear,0
+2025-10-19 05:38:00,Raikot,cattle on rasta near raikot. risk of accident. stuck.,rural_hazard,3
+2025-10-19 05:59:00,Rajpura Toll,zero visibility near rajpura toll. heavy rain is total. driving slow.,smog_fog,8
+2025-10-19 08:31:00,GT Road,pura traffic. gaadi khada hai pass gt road due to labor shortage.,harvest_traffic,4
+2025-10-19 08:45:00,Jagraon Mandi,boht heavy traffic. truck blocked pass jagraon mandi due to labor shortage.,harvest_traffic,6
+2025-10-19 10:11:00,Raikot,crossed raikot. road clear. reaching on time.,clear,0
+2025-10-19 10:24:00,NH-44,nh-44 phas gya by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-19 11:44:00,Canal Road,boht heavy traffic. trolley phas gya near canal road due to unloading.,harvest_traffic,7
+2025-10-19 12:05:00,Canal Road,dead traffic. trolley stopped near canal road due to overloading check.,harvest_traffic,7
+2025-10-19 13:03:00,Canal Road,pura traffic. gaadi stopped near canal road due to unloading.,harvest_traffic,4
+2025-10-19 13:07:00,Samrala,dead traffic. canter phas gya near samrala due to overloading check.,harvest_traffic,5
+2025-10-19 13:54:00,Khanna Mandi,khnn mnd stppd by strk. ttl jm. avd ths rt.,protest_dharna,10
+2025-10-19 14:07:00,Malerkotla,crossed malerkotla. road clear. reaching on time.,clear,0
+2025-10-19 14:23:00,Machhiwara,my tractor stopped at machhiwara. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-19 14:43:00,Nakodar,crossed nakodar. road clear. reaching on time.,clear,0
+2025-10-19 16:49:00,Canal Road,my tractor stopped at canal road. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-19 17:23:00,Bathinda Refinery,very bad traffic. tanker khada hai near bathinda refinery due to slow gate entry.,harvest_traffic,7
+2025-10-19 18:15:00,NH-44,crossed nh-44. road clear. reaching on time.,clear,0
+2025-10-19 18:50:00,Machhiwara,crossed machhiwara. road clear. reaching on time.,clear,0
+2025-10-19 19:03:00,Raikot,slw trffc. trlly jmmd nr rkt d t lbr shrtg.,harvest_traffic,6
+2025-10-19 19:14:00,Doraha,very bad traffic. tanker khada hai near doraha due to unloading.,harvest_traffic,5
+2025-10-19 20:40:00,Jagraon Mandi,cattle on rod near jagraon mandi. risk of accident. blocked.,rural_hazard,5
+2025-10-19 20:45:00,Jalandhar Bypass,zr vsblty nr jlndhr bypss. hvy rn s dd. drvng slw.,smog_fog,8
+2025-10-19 21:14:00,Machhiwara,stray cows on rasta near machhiwara. risk of accident. phas gya.,rural_hazard,3
+2025-10-19 21:33:00,Canal Road,crossed canal road. road clear. reaching on time.,clear,0
+2025-10-19 22:21:00,Canal Road,stray cows on road nr canal road. risk of accident. khada hai.,rural_hazard,4
+2025-10-19 23:31:00,Raikot,zero visibility near raikot. fog is very bad. driving slow.,smog_fog,8
+2025-10-20 00:15:00,Canal Road,pothole on road pass canal road. risk of accident. khada hai.,rural_hazard,6
+2025-10-20 00:42:00,Nakodar,zero visibility near nakodar. dhund is pura. driving slow.,smog_fog,9
+2025-10-20 00:53:00,Canal Road,zr vsblty nr cnl rd. dhnd s slw. drvng slw.,smog_fog,7
+2025-10-20 04:05:00,Rajpura Toll,stray cows on rod near rajpura toll. risk of accident. jammed.,rural_hazard,3
+2025-10-20 04:30:00,Rajpura Toll,zero visibility near rajpura toll. heavy rain is pura. driving slow.,smog_fog,7
+2025-10-20 04:51:00,Phillaur,electric wire on road nr phillaur. risk of accident. phas gya.,rural_hazard,4
+2025-10-20 05:03:00,Jalandhar Bypass,zero visibility near jalandhar bypass. fog is boht heavy. driving slow.,smog_fog,7
+2025-10-20 08:19:00,Khanna Mandi,my truck stopped at khanna mandi. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-20 10:44:00,Amritsar Gate,my tractor stopped at amritsar gate. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-20 11:07:00,Phillaur,crossed phillaur. road clear. reaching on time.,clear,0
+2025-10-20 11:25:00,Phillaur,crossed phillaur. road clear. reaching on time.,clear,0
+2025-10-20 11:32:00,Ferozepur Road,my canter stopped at ferozepur road. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-20 11:58:00,Khanna Mandi,crossed khanna mandi. rod clear. reaching on time.,clear,0
+2025-10-20 12:15:00,Ferozepur Road,crossed ferozepur road. rod clear. reaching on time.,clear,0
+2025-10-20 12:37:00,Phillaur,my cntr stppd t phllr. brk fl. nd mchnc.,vehicle_breakdown,2
+2025-10-20 12:53:00,Ferozepur Road,slow traffic. truck stuck near ferozepur rasta due to overloading check.,harvest_traffic,7
+2025-10-20 13:15:00,Jagraon Mandi,jagraon mandi jammed by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-20 13:21:00,Sahnewal Mandi,my tanker stopped at sahnewal mandi. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-20 14:00:00,Jalandhar Bypass,my tanker stopped at jalandhar bypass. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-20 14:52:00,Khanna Mandi,pura traffic. truck khada hai pass khanna mandi due to slow gate entry.,harvest_traffic,5
+2025-10-20 15:44:00,Sirhind Mandi,sirhind mandi jammed by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-20 18:26:00,Ludhiana Transport Nagar,my gaadi stopped at ludhiana transport nagar. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-20 18:31:00,Sahnewal Mandi,sahnewal mandi block by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-20 21:13:00,Phillaur,stray cows on road near phillaur. risk of accident. stopped.,rural_hazard,4
+2025-10-20 23:46:00,Machhiwara,crossed machhiwara. rd clear. reaching on time.,clear,0
+2025-10-21 00:41:00,Sahnewal Mandi,zr vsblty nr shnwl mnd. dhnd s slw. drvng slw.,smog_fog,8
+2025-10-21 00:42:00,Doraha,electric wire on rod near doraha. risk of accident. phas gya.,rural_hazard,5
+2025-10-21 01:00:00,Link Road #5,crossed link road #5. road clear. reaching on time.,clear,0
+2025-10-21 01:28:00,Jalandhar Bypass,pothole on road near jalandhar bypass. risk of accident. blocked.,rural_hazard,5
+2025-10-21 02:09:00,GT Road,zero visibility near gt road. fog is total. driving slow.,smog_fog,7
+2025-10-21 03:19:00,Ludhiana Transport Nagar,crssd ldhn trnsprt ngr. rd clr. rchng n tm.,clear,0
+2025-10-21 03:31:00,Jalandhar Bypass,crossed jalandhar bypass. rod clear. reaching on time.,clear,0
+2025-10-21 04:17:00,Rajpura Toll,cattle on road near rajpura toll. risk of accident. jammed.,rural_hazard,4
+2025-10-21 06:15:00,Sirhind Mandi,zero visibility pass sirhind mandi. fog is very bad. driving slow.,smog_fog,9
+2025-10-21 07:46:00,Sahnewal Mandi,sahnewal mandi blokd by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-21 07:48:00,Machhiwara,slow traffic. trolley stuck near machhiwara due to slow gate entry.,harvest_traffic,5
+2025-10-21 08:21:00,Jagraon Mandi,jagraon mandi stuck by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-21 08:30:00,Amritsar Gate,dead traffic. tractor khada hai near amritsar gate due to paddy bags.,harvest_traffic,5
+2025-10-21 08:32:00,Nakodar,ttl trffc. trctr khd h nr nkdr d t pddy bgs.,harvest_traffic,6
+2025-10-21 09:21:00,Link Road #5,crossed link road #5. rasta clear. reaching on time.,clear,0
+2025-10-21 11:30:00,Amritsar Gate,amritsar gate phas gya by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-21 11:52:00,GT Road,dead traffic. truck stuck near gt road due to unloading.,harvest_traffic,6
+2025-10-21 15:38:00,Canal Road,canal road stopped by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-21 16:20:00,Jalandhar Bypass,dead traffic. trolley stuck near jalandhar bypass due to unloading.,harvest_traffic,5
+2025-10-21 17:52:00,Canal Road,slow traffic. trolley phas gya pass canal rd due to unloading.,harvest_traffic,5
+2025-10-21 18:22:00,Sahnewal Mandi,my gaadi stopped at sahnewal mandi. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-21 18:23:00,Samrala,samrala stuck by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-21 18:47:00,Link Road #5,my tractor stopped at link rasta #5. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-21 19:14:00,Samrala,crossed samrala. road clear. reaching on time.,clear,0
+2025-10-21 19:46:00,Link Road #5,my canter stopped at link road #5. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-21 19:49:00,Sahnewal Mandi,slow traffic. truck blocked near sahnewal mandi due to overloading check.,harvest_traffic,5
+2025-10-21 20:28:00,Canal Road,zero visibility near canal road. smog is boht heavy. driving slow.,smog_fog,8
+2025-10-21 20:48:00,Nakodar,cattle on road near nakodar. risk of accident. phas gya.,rural_hazard,6
+2025-10-21 21:34:00,Rajpura Toll,zero visibility near rajpura toll. fog is pura. driving slow.,smog_fog,7
+2025-10-21 23:18:00,Sahnewal Mandi,pothole on rod near sahnewal mandi. risk of accident. blocked.,rural_hazard,5
+2025-10-21 23:30:00,Raikot,zero visibility near raikot. heavy rain is total. driving slow.,smog_fog,9
+2025-10-22 00:38:00,Ludhiana Transport Nagar,zr vsblty nr ldhn trnsprt ngr. wtrlggng s bht hvy. drvng slw.,smog_fog,7
+2025-10-22 01:49:00,Link Road #5,crossed link road #5. road clear. reaching on time.,clear,0
+2025-10-22 02:17:00,Jagraon Mandi,cattle on road near jagraon mandi. risk of accident. khada hai.,rural_hazard,6
+2025-10-22 02:30:00,Jagraon Mandi,zero visibility near jagraon mandi. waterlogging is very bad. driving slow.,smog_fog,9
+2025-10-22 02:38:00,Khanna Mandi,zero visibility near khanna mandi. slippery rd is slow. driving slow.,smog_fog,7
+2025-10-22 02:41:00,Amritsar Gate,zero visibility nr amritsar gate. fog is very bad. driving slow.,smog_fog,7
+2025-10-22 03:30:00,Ludhiana Transport Nagar,zero visibility pass ludhiana transport nagar. waterlogging is very bad. driving slow.,smog_fog,7
+2025-10-22 04:00:00,Nakodar,crossed nakodar. road clear. reaching on time.,clear,0
+2025-10-22 05:35:00,GT Road,pothole on road near gt road. risk of accident. blocked.,rural_hazard,4
+2025-10-22 05:57:00,Link Road #5,zero visibility near link road #5. waterlogging is slow. driving slow.,smog_fog,9
+2025-10-22 06:55:00,Rajpura Toll,zero visibility near rajpura toll. slippery road is very bad. driving slow.,smog_fog,7
+2025-10-22 07:49:00,Khanna Mandi,very bad traffic. canter phas gya near khanna mandi due to slow gate entry.,harvest_traffic,5
+2025-10-22 08:46:00,NH-44,total traffic. gaadi jammed near nh-44 due to paddy bags.,harvest_traffic,7
+2025-10-22 09:24:00,Rajpura Toll,rajpura toll stopped by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-22 09:49:00,Sirhind Mandi,very bad traffic. tanker stuck near sirhind mandi due to overloading check.,harvest_traffic,4
+2025-10-22 10:42:00,Nakodar,boht heavy traffic. gaadi jammed near nakodar due to slow gate entry.,harvest_traffic,7
+2025-10-22 11:24:00,Amritsar Gate,pura traffic. gaadi phas gya pass amritsar gate due to paddy bags.,harvest_traffic,7
+2025-10-22 11:28:00,Raikot,pr trffc. gd stck nr rkt d t pddy bgs.,harvest_traffic,5
+2025-10-22 12:23:00,Rajpura Toll,rajpura toll khada hai by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-22 13:36:00,Sirhind Mandi,my truck stopped at sirhind mandi. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-22 13:44:00,Sirhind Mandi,crossed sirhind mandi. road clear. reaching on time.,clear,0
+2025-10-22 15:45:00,Malerkotla,dead traffic. canter jammed near malerkotla due to slow gate entry.,harvest_traffic,4
+2025-10-22 16:03:00,Raikot,my trolley stopped at raikot. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-22 16:40:00,Raikot,crossed raikot. rd clear. reaching on time.,clear,0
+2025-10-22 17:06:00,GT Road,crossed gt road. road clear. reaching on time.,clear,0
+2025-10-22 17:33:00,Samrala,very bad traffic. tractor blocked near samrala due to overloading check.,harvest_traffic,4
+2025-10-22 17:50:00,Machhiwara,ttl trffc. gd stck nr mchhwr d t lbr shrtg.,harvest_traffic,7
+2025-10-22 18:12:00,Link Road #5,my trctr stppd t lnk rd #5. engn ht. nd mchnc.,vehicle_breakdown,2
+2025-10-22 18:39:00,Rajpura Toll,rajpura toll blocked by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-22 19:04:00,Bathinda Refinery,bathinda refinery khada hai by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-22 19:23:00,Samrala,total traffic. truck khada hai near samrala due to slow gate entry.,harvest_traffic,6
+2025-10-22 22:25:00,Link Road #5,electric wire on rod near link road #5. risk of accident. stopped.,rural_hazard,3
+2025-10-22 22:43:00,Canal Road,zero visibility pass canal road. waterlogging is boht heavy. driving slow.,smog_fog,8
+2025-10-23 00:10:00,Jalandhar Bypass,cattle on road near jalandhar bypass. risk of accident. blocked.,rural_hazard,4
+2025-10-23 00:12:00,Nakodar,cattle on road pass nakodar. risk of accident. khada hai.,rural_hazard,6
+2025-10-23 00:47:00,Ferozepur Road,electric wire on road near ferozepur road. risk of accident. stuck.,rural_hazard,5
+2025-10-23 00:59:00,Ludhiana Transport Nagar,mud on road near ludhiana transport nagar. risk of accident. blocked.,rural_hazard,3
+2025-10-23 01:19:00,Bathinda Refinery,mud on road nr bathinda refinery. risk of accident. stopped.,rural_hazard,3
+2025-10-23 02:37:00,Phillaur,electric wire on rd near phillaur. risk of accident. khada hai.,rural_hazard,3
+2025-10-23 02:47:00,Phillaur,cattle on rasta pass phillaur. risk of accident. khada hai.,rural_hazard,4
+2025-10-23 02:51:00,Ludhiana Transport Nagar,zero visibility nr ludhiana transport nagar. waterlogging is very bad. driving slow.,smog_fog,7
+2025-10-23 03:47:00,Jalandhar Bypass,crossed jalandhar bypass. road clear. reaching on time.,clear,0
+2025-10-23 04:06:00,Ferozepur Road,cattle on road near ferozepur road. risk of accident. phas gya.,rural_hazard,3
+2025-10-23 04:29:00,Jalandhar Bypass,zero visibility near jalandhar bypass. fog is pura. driving slow.,smog_fog,9
+2025-10-23 04:53:00,Raikot,zero visibility pass raikot. fog is dead. driving slow.,smog_fog,7
+2025-10-23 06:22:00,NH-44,zero visibility near nh-44. dhund is dead. driving slow.,smog_fog,9
+2025-10-23 06:31:00,Jagraon Mandi,crossed jagraon mandi. road clear. reaching on time.,clear,0
+2025-10-23 07:29:00,Khanna Mandi,khanna mandi block by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-23 07:36:00,Jalandhar Bypass,pura traffic. truck khada hai near jalandhar bypass due to overloading check.,harvest_traffic,5
+2025-10-23 07:38:00,Sahnewal Mandi,my trolley stopped at sahnewal mandi. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-23 08:01:00,Bathinda Refinery,dead traffic. canter jammed nr bathinda refinery due to unloading.,harvest_traffic,7
+2025-10-23 08:22:00,Ludhiana Transport Nagar,dead traffic. gaadi stopped near ludhiana transport nagar due to labor shortage.,harvest_traffic,6
+2025-10-23 09:06:00,Canal Road,dead traffic. tanker blocked near canal road due to overloading check.,harvest_traffic,7
+2025-10-23 09:09:00,Bathinda Refinery,crssd bthnd rfnry. rd clr. rchng n tm.,clear,0
+2025-10-23 10:27:00,Nakodar,total traffic. tractor stopped near nakodar due to overloading check.,harvest_traffic,4
+2025-10-23 10:41:00,Sirhind Mandi,slw trffc. tnkr bnd nr srhnd mnd d t slw gt ntry.,harvest_traffic,7
+2025-10-23 10:48:00,Ferozepur Road,my canter stopped at ferozepur road. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-23 11:47:00,Sirhind Mandi,my truck stopped at sirhind mandi. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-23 11:49:00,Canal Road,total traffic. tractor stuck near canal road due to overloading check.,harvest_traffic,6
+2025-10-23 12:50:00,Khanna Mandi,my trck stppd t khnn mnd. dsl vr. nd mchnc.,vehicle_breakdown,2
+2025-10-23 13:12:00,Nakodar,nakodar khada hai by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-23 13:26:00,Khanna Mandi,crossed khanna mandi. road clear. reaching on time.,clear,0
+2025-10-23 14:09:00,Khanna Mandi,khanna mandi stuck by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-23 14:16:00,Ludhiana Transport Nagar,my tanker stopped at ludhiana transport nagar. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-23 14:19:00,Rajpura Toll,my tractor stopped at rajpura toll. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-23 15:05:00,Ludhiana Transport Nagar,ttl trffc. trck stck nr ldhn trnsprt ngr d t slw gt ntry.,harvest_traffic,6
+2025-10-23 16:22:00,Moga Grain Market,my gaadi stopped at moga grain market. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-23 16:22:00,Khanna Mandi,dead traffic. tractor khada hai near khanna mandi due to overloading check.,harvest_traffic,6
+2025-10-23 16:49:00,Ferozepur Road,ferozepur rd jammed by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-23 18:01:00,Raikot,slow traffic. tanker stuck near raikot due to overloading check.,harvest_traffic,6
+2025-10-23 18:14:00,Bathinda Refinery,bathinda refinery stopped by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-23 18:24:00,Amritsar Gate,crossed amritsar gate. road clear. reaching on time.,clear,0
+2025-10-23 18:57:00,Bathinda Refinery,dead traffic. tanker jammed near bathinda refinery due to paddy bags.,harvest_traffic,6
+2025-10-23 19:09:00,Ferozepur Road,ferozepur road stuck by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-23 19:13:00,Jalandhar Bypass,pura traffic. tanker phas gya near jalandhar bypass due to slow gate entry.,harvest_traffic,6
+2025-10-23 20:03:00,Sahnewal Mandi,zero visibility near sahnewal mandi. heavy rain is boht heavy. driving slow.,smog_fog,7
+2025-10-23 21:11:00,Malerkotla,zero visibility near malerkotla. dhund is pura. driving slow.,smog_fog,8
+2025-10-23 21:19:00,Samrala,zero visibility pass samrala. smog is boht heavy. driving slow.,smog_fog,8
+2025-10-23 21:41:00,Sirhind Mandi,crossed sirhind mandi. rd clear. reaching on time.,clear,0
+2025-10-23 22:28:00,Amritsar Gate,crossed amritsar gate. rd clear. reaching on time.,clear,0
+2025-10-23 23:51:00,Sirhind Mandi,pothole on road nr sirhind mandi. risk of accident. stopped.,rural_hazard,5
+2025-10-24 00:28:00,Nakodar,zr vsblty nr nkdr. slppry rd s pr. drvng slw.,smog_fog,8
+2025-10-24 00:31:00,Bathinda Refinery,crossed bathinda refinery. road clear. reaching on time.,clear,0
+2025-10-24 01:25:00,Jagraon Mandi,crossed jagraon mandi. road clear. reaching on time.,clear,0
+2025-10-24 01:44:00,Sirhind Mandi,zero visibility near sirhind mandi. slippery road is dead. driving slow.,smog_fog,9
+2025-10-24 01:46:00,Rajpura Toll,zero visibility pass rajpura toll. fog is dead. driving slow.,smog_fog,9
+2025-10-24 02:50:00,Jagraon Mandi,zero visibility nr jagraon mandi. waterlogging is very bad. driving slow.,smog_fog,7
+2025-10-24 03:32:00,Phillaur,zero visibility pass phillaur. smog is boht heavy. driving slow.,smog_fog,9
+2025-10-24 05:36:00,Phillaur,zero visibility near phillaur. heavy rain is total. driving slow.,smog_fog,8
+2025-10-24 07:00:00,Machhiwara,machhiwara jammed by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-24 08:28:00,Khanna Mandi,my canter stopped at khanna mandi. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-24 08:37:00,Samrala,crossed samrala. road clear. reaching on time.,clear,0
+2025-10-24 09:25:00,Canal Road,canal road stopped by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-24 11:38:00,Amritsar Gate,slow traffic. truck khada hai near amritsar gate due to overloading check.,harvest_traffic,7
+2025-10-24 11:45:00,Bathinda Refinery,my canter stopped at bathinda refinery. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-24 12:23:00,Rajpura Toll,vry bd trffc. cntr jmmd nr rjpr tll d t slw gt ntry.,harvest_traffic,4
+2025-10-24 12:35:00,Bathinda Refinery,dead traffic. gaadi blocked pass bathinda refinery due to slow gate entry.,harvest_traffic,4
+2025-10-24 13:27:00,Phillaur,my tnkr stppd t phllr. tyr brst. nd mchnc.,vehicle_breakdown,2
+2025-10-24 14:16:00,Ferozepur Road,dead traffic. tanker jammed near ferozepur rd due to unloading.,harvest_traffic,7
+2025-10-24 14:50:00,Khanna Mandi,crossed khanna mandi. road clear. reaching on time.,clear,0
+2025-10-24 14:53:00,Samrala,boht heavy traffic. canter stuck nr samrala due to paddy bags.,harvest_traffic,6
+2025-10-24 15:04:00,Canal Road,canal road blocked by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-24 15:45:00,GT Road,gt road stopped by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-24 17:08:00,Moga Grain Market,slow traffic. truck jammed near moga grain market due to unloading.,harvest_traffic,5
+2025-10-24 17:41:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. road clear. reaching on time.,clear,0
+2025-10-24 17:42:00,Phillaur,phillaur jammed by rd roko. total jam. avoid this route.,protest_dharna,10
+2025-10-24 17:46:00,Canal Road,crossed canal road. rod clear. reaching on time.,clear,0
+2025-10-24 18:15:00,Phillaur,very bad traffic. canter khada hai near phillaur due to overloading check.,harvest_traffic,5
+2025-10-24 18:23:00,Amritsar Gate,crossed amritsar gate. road clear. reaching on time.,clear,0
+2025-10-24 19:24:00,Moga Grain Market,bht hvy trffc. trlly blckd nr mg grn mrkt d t slw gt ntry.,harvest_traffic,6
+2025-10-24 19:36:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. road clear. reaching on time.,clear,0
+2025-10-24 19:52:00,Link Road #5,pura traffic. canter stopped near link rd #5 due to overloading check.,harvest_traffic,7
+2025-10-24 21:47:00,GT Road,zero visibility near gt road. dhund is very bad. driving slow.,smog_fog,8
+2025-10-24 22:43:00,Raikot,pothole on road near raikot. risk of accident. phas gya.,rural_hazard,6
+2025-10-25 00:01:00,Phillaur,electric wire on rd near phillaur. risk of accident. phas gya.,rural_hazard,5
+2025-10-25 00:50:00,Malerkotla,electric wire on rod near malerkotla. risk of accident. phas gya.,rural_hazard,6
+2025-10-25 02:11:00,Nakodar,stray cows on road near nakodar. risk of accident. khada hai.,rural_hazard,6
+2025-10-25 03:45:00,Khanna Mandi,electric wire on road nr khanna mandi. risk of accident. khada hai.,rural_hazard,3
+2025-10-25 05:08:00,Malerkotla,zero visibility nr malerkotla. fog is very bad. driving slow.,smog_fog,7
+2025-10-25 05:09:00,Ludhiana Transport Nagar,zero visibility pass ludhiana transport nagar. waterlogging is total. driving slow.,smog_fog,8
+2025-10-25 05:14:00,Samrala,zero visibility near samrala. waterlogging is pura. driving slow.,smog_fog,8
+2025-10-25 08:33:00,Link Road #5,crossed link road #5. rasta clear. reaching on time.,clear,0
+2025-10-25 10:09:00,Ferozepur Road,crossed ferozepur road. rd clear. reaching on time.,clear,0
+2025-10-25 11:15:00,Link Road #5,total traffic. tractor jammed near link road #5 due to paddy bags.,harvest_traffic,4
+2025-10-25 11:20:00,Phillaur,pura traffic. trolley jammed near phillaur due to unloading.,harvest_traffic,4
+2025-10-25 11:29:00,Bathinda Refinery,ttl trffc. cntr jmmd nr bthnd rfnry d t nldng.,harvest_traffic,4
+2025-10-25 12:25:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. rasta clear. reaching on time.,clear,0
+2025-10-25 12:28:00,Machhiwara,slow traffic. tractor stopped near machhiwara due to unloading.,harvest_traffic,7
+2025-10-25 13:38:00,Jagraon Mandi,crossed jagraon mandi. road clear. reaching on time.,clear,0
+2025-10-25 14:56:00,GT Road,pura traffic. trolley phas gya near gt rod due to labor shortage.,harvest_traffic,4
+2025-10-25 16:54:00,Bathinda Refinery,pura traffic. tractor stuck near bathinda refinery due to labor shortage.,harvest_traffic,6
+2025-10-25 16:58:00,Nakodar,my tractor stopped at nakodar. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-25 17:39:00,Phillaur,boht heavy traffic. gaadi jammed near phillaur due to labor shortage.,harvest_traffic,5
+2025-10-25 18:43:00,Machhiwara,pura traffic. tractor stuck pass machhiwara due to overloading check.,harvest_traffic,4
+2025-10-25 19:23:00,Bathinda Refinery,bathinda refinery stuck by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-25 19:36:00,Ferozepur Road,very bad traffic. canter jammed near ferozepur road due to paddy bags.,harvest_traffic,6
+2025-10-25 19:36:00,NH-44,nh-44 phas gya by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-25 22:11:00,Moga Grain Market,crossed moga grain market. rod clear. reaching on time.,clear,0
+2025-10-25 22:13:00,Rajpura Toll,crossed rajpura toll. rod clear. reaching on time.,clear,0
+2025-10-25 23:31:00,Doraha,zero visibility near doraha. smog is dead. driving slow.,smog_fog,7
+2025-10-26 00:31:00,Raikot,zero visibility pass raikot. dhund is pura. driving slow.,smog_fog,7
+2025-10-26 02:56:00,Jalandhar Bypass,crssd jlndhr bypss. rd clr. rchng n tm.,clear,0
+2025-10-26 03:34:00,Bathinda Refinery,zero visibility near bathinda refinery. fog is pura. driving slow.,smog_fog,8
+2025-10-26 03:41:00,Link Road #5,electric wire on road nr link road #5. risk of accident. blocked.,rural_hazard,6
+2025-10-26 04:21:00,Canal Road,mud on rasta near canal road. risk of accident. blocked.,rural_hazard,4
+2025-10-26 04:33:00,Link Road #5,zero visibility near link road #5. dhund is very bad. driving slow.,smog_fog,8
+2025-10-26 06:21:00,NH-44,crossed nh-44. road clear. reaching on time.,clear,0
+2025-10-26 07:18:00,Amritsar Gate,my trlly stppd t amrtsr gt. brk fl. nd mchnc.,vehicle_breakdown,2
+2025-10-26 07:45:00,Jalandhar Bypass,slow traffic. truck blocked nr jalandhar bypass due to paddy bags.,harvest_traffic,7
+2025-10-26 08:02:00,GT Road,my tractor stopped at gt road. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-26 08:18:00,Malerkotla,malerkotla phas gya by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-26 08:36:00,NH-44,slow traffic. canter stuck near nh-44 due to paddy bags.,harvest_traffic,4
+2025-10-26 09:01:00,Rajpura Toll,my tractor stopped at rajpura toll. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-26 09:25:00,Moga Grain Market,moga grain market stopped by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-26 11:32:00,GT Road,crossed gt road. road clear. reaching on time.,clear,0
+2025-10-26 11:37:00,Nakodar,my trolley stopped at nakodar. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-26 12:45:00,Amritsar Gate,pura traffic. trolley stuck near amritsar gate due to overloading check.,harvest_traffic,4
+2025-10-26 14:49:00,Canal Road,crossed canal road. rod clear. reaching on time.,clear,0
+2025-10-26 15:35:00,NH-44,pura traffic. trolley phas gya near nh-44 due to labor shortage.,harvest_traffic,7
+2025-10-26 16:58:00,Nakodar,boht heavy traffic. tractor stopped near nakodar due to unloading.,harvest_traffic,7
+2025-10-26 17:19:00,Jagraon Mandi,slow traffic. gaadi blocked nr jagraon mandi due to overloading check.,harvest_traffic,6
+2025-10-26 18:02:00,Malerkotla,crossed malerkotla. rasta clear. reaching on time.,clear,0
+2025-10-26 18:21:00,Rajpura Toll,dead traffic. truck phas gya pass rajpura toll due to overloading check.,harvest_traffic,7
+2025-10-26 19:40:00,Bathinda Refinery,bathinda refinery phas gya by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-26 19:55:00,Doraha,my tractor stopped at doraha. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-26 20:32:00,Jagraon Mandi,zero visibility near jagraon mandi. waterlogging is pura. driving slow.,smog_fog,9
+2025-10-26 21:01:00,Link Road #5,zero visibility nr link road #5. heavy rain is very bad. driving slow.,smog_fog,8
+2025-10-26 22:11:00,Moga Grain Market,mud on road near moga grain market. risk of accident. stopped.,rural_hazard,5
+2025-10-26 23:11:00,Sahnewal Mandi,crossed sahnewal mandi. rasta clear. reaching on time.,clear,0
+2025-10-27 01:06:00,Sahnewal Mandi,electric wire on road near sahnewal mandi. risk of accident. khada hai.,rural_hazard,6
+2025-10-27 01:16:00,Rajpura Toll,zr vsblty nr rjpr tll. dhnd s dd. drvng slw.,smog_fog,8
+2025-10-27 02:47:00,Nakodar,zero visibility pass nakodar. slippery road is pura. driving slow.,smog_fog,9
+2025-10-27 03:52:00,Rajpura Toll,zero visibility near rajpura toll. smog is dead. driving slow.,smog_fog,8
+2025-10-27 03:55:00,Rajpura Toll,crossed rajpura toll. road clear. reaching on time.,clear,0
+2025-10-27 04:07:00,Moga Grain Market,zero visibility near moga grain market. heavy rain is slow. driving slow.,smog_fog,7
+2025-10-27 04:43:00,Phillaur,crossed phillaur. road clear. reaching on time.,clear,0
+2025-10-27 04:45:00,Amritsar Gate,zero visibility pass amritsar gate. heavy rain is very bad. driving slow.,smog_fog,9
+2025-10-27 04:57:00,Bathinda Refinery,zero visibility near bathinda refinery. dhund is boht heavy. driving slow.,smog_fog,7
+2025-10-27 05:12:00,Moga Grain Market,zero visibility pass moga grain market. waterlogging is boht heavy. driving slow.,smog_fog,8
+2025-10-27 06:24:00,Jalandhar Bypass,zero visibility near jalandhar bypass. waterlogging is dead. driving slow.,smog_fog,7
+2025-10-27 06:48:00,Canal Road,zero visibility near canal road. dhund is boht heavy. driving slow.,smog_fog,8
+2025-10-27 08:14:00,Phillaur,my canter stopped at phillaur. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-27 08:35:00,Sirhind Mandi,crossed sirhind mandi. road clear. reaching on time.,clear,0
+2025-10-27 09:52:00,Ferozepur Road,very bad traffic. tanker blocked near ferozepur rasta due to slow gate entry.,harvest_traffic,5
+2025-10-27 13:18:00,Jagraon Mandi,very bad traffic. truck khada hai near jagraon mandi due to paddy bags.,harvest_traffic,5
+2025-10-27 13:51:00,Khanna Mandi,crossed khanna mandi. rod clear. reaching on time.,clear,0
+2025-10-27 14:34:00,Khanna Mandi,pura traffic. trolley blocked near khanna mandi due to unloading.,harvest_traffic,5
+2025-10-27 14:41:00,Link Road #5,my canter stopped at link road #5. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-27 15:38:00,Ferozepur Road,crossed ferozepur road. rasta clear. reaching on time.,clear,0
+2025-10-27 17:21:00,Malerkotla,my tanker stopped at malerkotla. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-27 17:51:00,Samrala,boht heavy traffic. tanker jammed nr samrala due to labor shortage.,harvest_traffic,6
+2025-10-27 18:48:00,Link Road #5,crossed link rod #5. road clear. reaching on time.,clear,0
+2025-10-27 19:10:00,Canal Road,canal road blocked by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-27 20:24:00,Samrala,mud on road near samrala. risk of accident. stopped.,rural_hazard,3
+2025-10-27 20:26:00,Rajpura Toll,crossed rajpura toll. road clear. reaching on time.,clear,0
+2025-10-27 21:23:00,Ferozepur Road,zero visibility nr ferozepur road. dhund is pura. driving slow.,smog_fog,8
+2025-10-27 22:39:00,Ludhiana Transport Nagar,crossed ludhiana transport nagar. road clear. reaching on time.,clear,0
+2025-10-27 23:04:00,Ferozepur Road,zero visibility near ferozepur road. dhund is pura. driving slow.,smog_fog,8
+2025-10-27 23:29:00,Sahnewal Mandi,zero visibility near sahnewal mandi. smog is total. driving slow.,smog_fog,7
+2025-10-28 00:37:00,Bathinda Refinery,crossed bathinda refinery. road clear. reaching on time.,clear,0
+2025-10-28 00:42:00,Bathinda Refinery,stray cows on rod near bathinda refinery. risk of accident. khada hai.,rural_hazard,6
+2025-10-28 00:56:00,NH-44,zero visibility nr nh-44. fog is boht heavy. driving slow.,smog_fog,7
+2025-10-28 01:15:00,NH-44,cttl n rst nr nh-44. rsk f ccdnt. khd h.,rural_hazard,4
+2025-10-28 04:54:00,Khanna Mandi,crssd khnn mnd. rd clr. rchng n tm.,clear,0
+2025-10-28 05:36:00,Bathinda Refinery,zero visibility near bathinda refinery. dhund is dead. driving slow.,smog_fog,8
+2025-10-28 05:54:00,Amritsar Gate,zero visibility near amritsar gate. fog is pura. driving slow.,smog_fog,8
+2025-10-28 07:16:00,Rajpura Toll,pura traffic. gaadi jammed near rajpura toll due to overloading check.,harvest_traffic,5
+2025-10-28 09:27:00,Sirhind Mandi,slow traffic. tractor stuck near sirhind mandi due to paddy bags.,harvest_traffic,6
+2025-10-28 09:32:00,Machhiwara,my tractor stopped at machhiwara. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-28 11:00:00,Khanna Mandi,my tractor stopped at khanna mandi. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-28 11:09:00,Ferozepur Road,crssd frzpr rd. rd clr. rchng n tm.,clear,0
+2025-10-28 11:38:00,Rajpura Toll,my trolley stopped at rajpura toll. tyre burst. need mechanic.,vehicle_breakdown,2
+2025-10-28 15:00:00,Nakodar,dead traffic. gaadi blocked near nakodar due to slow gate entry.,harvest_traffic,7
+2025-10-28 15:13:00,Jagraon Mandi,my trolley stopped at jagraon mandi. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-28 15:25:00,Khanna Mandi,bht hvy trffc. tnkr jmmd nr khnn mnd d t vrldng chck.,harvest_traffic,5
+2025-10-28 15:51:00,Sirhind Mandi,pr trffc. trlly stck pss srhnd mnd d t slw gt ntry.,harvest_traffic,5
+2025-10-28 16:16:00,Nakodar,boht heavy traffic. trolley stopped near nakodar due to slow gate entry.,harvest_traffic,5
+2025-10-28 18:51:00,Link Road #5,link road #5 stopped by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-28 19:50:00,Samrala,slow traffic. tractor blocked near samrala due to overloading check.,harvest_traffic,7
+2025-10-28 19:57:00,Khanna Mandi,my tanker stopped at khanna mandi. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-28 20:37:00,Nakodar,zero visibility near nakodar. dhund is very bad. driving slow.,smog_fog,9
+2025-10-28 21:57:00,Raikot,cttl n rd nr rkt. rsk f ccdnt. jmmd.,rural_hazard,5
+2025-10-28 21:57:00,Moga Grain Market,electric wire on road pass moga grain market. risk of accident. stopped.,rural_hazard,5
+2025-10-28 22:19:00,Sirhind Mandi,mud on road near sirhind mandi. risk of accident. blocked.,rural_hazard,4
+2025-10-28 22:34:00,Canal Road,crossed canal road. road clear. reaching on time.,clear,0
+2025-10-28 22:51:00,Jalandhar Bypass,crossed jalandhar bypass. road clear. reaching on time.,clear,0
+2025-10-28 23:33:00,Khanna Mandi,zero visibility near khanna mandi. waterlogging is total. driving slow.,smog_fog,9
+2025-10-29 00:07:00,Nakodar,zero visibility near nakodar. heavy rain is total. driving slow.,smog_fog,9
+2025-10-29 00:35:00,Rajpura Toll,crossed rajpura toll. rasta clear. reaching on time.,clear,0
+2025-10-29 00:51:00,NH-44,zero visibility near nh-44. dhund is total. driving slow.,smog_fog,9
+2025-10-29 00:54:00,Raikot,crossed raikot. road clear. reaching on time.,clear,0
+2025-10-29 01:11:00,Ferozepur Road,zero visibility nr ferozepur road. slippery road is boht heavy. driving slow.,smog_fog,7
+2025-10-29 01:49:00,Moga Grain Market,zero visibility near moga grain market. smog is dead. driving slow.,smog_fog,7
+2025-10-29 04:11:00,Amritsar Gate,crossed amritsar gate. road clear. reaching on time.,clear,0
+2025-10-29 05:16:00,Bathinda Refinery,zero visibility near bathinda refinery. waterlogging is total. driving slow.,smog_fog,9
+2025-10-29 05:28:00,Doraha,crossed doraha. rod clear. reaching on time.,clear,0
+2025-10-29 06:42:00,Jalandhar Bypass,stray cows on rasta near jalandhar bypass. risk of accident. stuck.,rural_hazard,5
+2025-10-29 07:08:00,Amritsar Gate,amritsar gate stuck by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-29 07:30:00,GT Road,gt rasta khada hai by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-29 09:10:00,Rajpura Toll,rajpura toll jammed by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-29 09:12:00,Ferozepur Road,pr trffc. cntr khd h pss frzpr rd d t vrldng chck.,harvest_traffic,5
+2025-10-29 09:35:00,Rajpura Toll,dead traffic. gaadi stuck pass rajpura toll due to unloading.,harvest_traffic,6
+2025-10-29 10:28:00,Bathinda Refinery,total traffic. canter blocked pass bathinda refinery due to unloading.,harvest_traffic,4
+2025-10-29 10:29:00,Bathinda Refinery,dd trffc. cntr stck pss bthnd rfnry d t pddy bgs.,harvest_traffic,6
+2025-10-29 11:18:00,Ludhiana Transport Nagar,total traffic. gaadi stopped near ludhiana transport nagar due to unloading.,harvest_traffic,6
+2025-10-29 11:43:00,Machhiwara,dead traffic. tanker jammed near machhiwara due to paddy bags.,harvest_traffic,4
+2025-10-29 11:44:00,NH-44,my trctr stppd t nh-44. engn ht. nd mchnc.,vehicle_breakdown,2
+2025-10-29 11:46:00,Khanna Mandi,khanna mandi stuck by strike. total jam. avoid this route.,protest_dharna,10
+2025-10-29 12:36:00,Doraha,crossed doraha. road clear. reaching on time.,clear,0
+2025-10-29 14:27:00,NH-44,total traffic. truck khada hai near nh-44 due to unloading.,harvest_traffic,7
+2025-10-29 15:15:00,NH-44,boht heavy traffic. truck blocked nr nh-44 due to paddy bags.,harvest_traffic,6
+2025-10-29 16:16:00,Nakodar,dead traffic. truck khada hai near nakodar due to slow gate entry.,harvest_traffic,5
+2025-10-29 16:25:00,Raikot,crossed raikot. road clear. reaching on time.,clear,0
+2025-10-29 17:13:00,Moga Grain Market,crossed moga grain market. road clear. reaching on time.,clear,0
+2025-10-29 17:27:00,Khanna Mandi,total traffic. trolley phas gya pass khanna mandi due to slow gate entry.,harvest_traffic,4
+2025-10-29 17:40:00,Raikot,raikot jammed by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-29 18:50:00,NH-44,nh-44 phas gya by rod roko. total jam. avoid this route.,protest_dharna,10
+2025-10-29 19:22:00,Jagraon Mandi,my gaadi stopped at jagraon mandi. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-29 19:28:00,GT Road,slow traffic. truck stuck near gt road due to labor shortage.,harvest_traffic,4
+2025-10-29 21:29:00,NH-44,stry cws n rd nr nh-44. rsk f ccdnt. phs gy.,rural_hazard,5
+2025-10-29 23:28:00,Jagraon Mandi,zero visibility near jagraon mandi. dhund is boht heavy. driving slow.,smog_fog,8
+2025-10-30 00:32:00,Jagraon Mandi,zero visibility near jagraon mandi. smog is boht heavy. driving slow.,smog_fog,8
+2025-10-30 03:07:00,Khanna Mandi,crossed khanna mandi. road clear. reaching on time.,clear,0
+2025-10-30 03:39:00,Jalandhar Bypass,mud on road nr jalandhar bypass. risk of accident. khada hai.,rural_hazard,6
+2025-10-30 04:06:00,Amritsar Gate,zero visibility near amritsar gate. slippery road is dead. driving slow.,smog_fog,7
+2025-10-30 04:10:00,Raikot,zr vsblty nr rkt. hvy rn s pr. drvng slw.,smog_fog,7
+2025-10-30 04:48:00,Jagraon Mandi,zero visibility near jagraon mandi. heavy rain is pura. driving slow.,smog_fog,9
+2025-10-30 05:14:00,Sahnewal Mandi,stray cows on road near sahnewal mandi. risk of accident. phas gya.,rural_hazard,6
+2025-10-30 05:28:00,Moga Grain Market,cattle on road pass moga grain market. risk of accident. jammed.,rural_hazard,4
+2025-10-30 05:36:00,NH-44,zero visibility near nh-44. smog is total. driving slow.,smog_fog,7
+2025-10-30 06:35:00,Machhiwara,zr vsblty nr mchhwr. slppry rd s pr. drvng slw.,smog_fog,7
+2025-10-30 06:48:00,Sahnewal Mandi,stray cows on road near sahnewal mandi. risk of accident. stuck.,rural_hazard,5
+2025-10-30 07:20:00,Jalandhar Bypass,crossed jalandhar bypass. rasta clear. reaching on time.,clear,0
+2025-10-30 08:12:00,Khanna Mandi,pura traffic. gaadi stuck nr khanna mandi due to paddy bags.,harvest_traffic,5
+2025-10-30 09:48:00,Link Road #5,crossed link road #5. road clear. reaching on time.,clear,0
+2025-10-30 10:17:00,GT Road,boht heavy traffic. canter stopped nr gt road due to slow gate entry.,harvest_traffic,4
+2025-10-30 11:21:00,Moga Grain Market,slow traffic. canter stopped near moga grain market due to slow gate entry.,harvest_traffic,6
+2025-10-30 12:07:00,Phillaur,phillaur stopped by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-30 13:06:00,Sirhind Mandi,my trolley stopped at sirhind mandi. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-30 13:13:00,Khanna Mandi,pura traffic. gaadi phas gya near khanna mandi due to unloading.,harvest_traffic,4
+2025-10-30 13:29:00,Ferozepur Road,very bad traffic. gaadi blocked near ferozepur rasta due to overloading check.,harvest_traffic,4
+2025-10-30 14:01:00,Jagraon Mandi,jagraon mandi stuck by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-30 15:59:00,Link Road #5,my gaadi stopped at link rd #5. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-30 16:41:00,Doraha,crssd drh. rd clr. rchng n tm.,clear,0
+2025-10-30 17:39:00,Sirhind Mandi,slow traffic. gaadi stuck near sirhind mandi due to unloading.,harvest_traffic,5
+2025-10-30 19:33:00,GT Road,boht heavy traffic. tractor phas gya near gt rasta due to labor shortage.,harvest_traffic,7
+2025-10-30 20:39:00,NH-44,mud on rod near nh-44. risk of accident. phas gya.,rural_hazard,5
+2025-10-30 20:55:00,Khanna Mandi,cattle on road near khanna mandi. risk of accident. stopped.,rural_hazard,6
+2025-10-30 21:31:00,Link Road #5,crossed link road #5. road clear. reaching on time.,clear,0
+2025-10-30 23:27:00,Canal Road,crossed canal road. road clear. reaching on time.,clear,0
+2025-10-30 23:45:00,Jagraon Mandi,mud on rod pass jagraon mandi. risk of accident. khada hai.,rural_hazard,3
+2025-10-31 01:09:00,Malerkotla,zero visibility near malerkotla. waterlogging is total. driving slow.,smog_fog,9
+2025-10-31 01:26:00,Raikot,stray cows on road near raikot. risk of accident. blocked.,rural_hazard,3
+2025-10-31 03:01:00,Jalandhar Bypass,crossed jalandhar bypass. road clear. reaching on time.,clear,0
+2025-10-31 04:26:00,Malerkotla,crossed malerkotla. road clear. reaching on time.,clear,0
+2025-10-31 05:30:00,Malerkotla,stray cows on rasta near malerkotla. risk of accident. jammed.,rural_hazard,4
+2025-10-31 06:28:00,Moga Grain Market,crssd mg grn mrkt. rst clr. rchng n tm.,clear,0
+2025-10-31 06:43:00,Ferozepur Road,zero visibility near ferozepur road. slippery road is boht heavy. driving slow.,smog_fog,7
+2025-10-31 07:26:00,NH-44,nh-44 jammed by police barricade. total jam. avoid this route.,protest_dharna,10
+2025-10-31 07:57:00,Moga Grain Market,moga grain market jammed by dharna. total jam. avoid this route.,protest_dharna,10
+2025-10-31 09:08:00,GT Road,dead traffic. truck stuck near gt rd due to slow gate entry.,harvest_traffic,4
+2025-10-31 09:46:00,Machhiwara,very bad traffic. canter blocked near machhiwara due to overloading check.,harvest_traffic,6
+2025-10-31 10:00:00,Khanna Mandi,crossed khanna mandi. road clear. reaching on time.,clear,0
+2025-10-31 10:21:00,Machhiwara,my canter stopped at machhiwara. engine heat. need mechanic.,vehicle_breakdown,2
+2025-10-31 10:25:00,Raikot,pura traffic. tractor stopped near raikot due to paddy bags.,harvest_traffic,4
+2025-10-31 10:34:00,Rajpura Toll,pura traffic. tanker jammed near rajpura toll due to unloading.,harvest_traffic,7
+2025-10-31 10:56:00,Raikot,boht heavy traffic. gaadi phas gya pass raikot due to overloading check.,harvest_traffic,4
+2025-10-31 12:37:00,Nakodar,nakodar khada hai by rod roko. total jam. avoid this route.,protest_dharna,10
+2025-10-31 13:06:00,Jalandhar Bypass,crossed jalandhar bypass. rod clear. reaching on time.,clear,0
+2025-10-31 13:51:00,NH-44,my tractor stopped at nh-44. clutch plate gya. need mechanic.,vehicle_breakdown,2
+2025-10-31 14:25:00,Ferozepur Road,ferozepur road khada hai by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-31 14:32:00,Rajpura Toll,dead traffic. canter phas gya near rajpura toll due to overloading check.,harvest_traffic,5
+2025-10-31 15:18:00,Link Road #5,boht heavy traffic. canter jammed near link rasta #5 due to slow gate entry.,harvest_traffic,7
+2025-10-31 15:32:00,Samrala,crossed samrala. rd clear. reaching on time.,clear,0
+2025-10-31 15:34:00,GT Road,crossed gt road. rd clear. reaching on time.,clear,0
+2025-10-31 16:36:00,Machhiwara,machhiwara blocked by road roko. total jam. avoid this route.,protest_dharna,10
+2025-10-31 17:34:00,Doraha,my trolley stopped at doraha. diesel over. need mechanic.,vehicle_breakdown,2
+2025-10-31 17:49:00,Link Road #5,link road #5 stuck by union block. total jam. avoid this route.,protest_dharna,10
+2025-10-31 19:41:00,NH-44,my gaadi stopped at nh-44. break fail. need mechanic.,vehicle_breakdown,2
+2025-10-31 20:18:00,Raikot,zero visibility pass raikot. fog is boht heavy. driving slow.,smog_fog,7
+2025-10-31 20:52:00,Ferozepur Road,pothole on rasta near ferozepur road. risk of accident. stopped.,rural_hazard,6
+2025-10-31 21:08:00,GT Road,crossed gt road. road clear. reaching on time.,clear,0
+2025-10-31 21:19:00,Jagraon Mandi,crossed jagraon mandi. rasta clear. reaching on time.,clear,0
+2025-10-31 22:59:00,Sirhind Mandi,zero visibility near sirhind mandi. dhund is slow. driving slow.,smog_fog,7
+2025-10-31 23:46:00,NH-44,crossed nh-44. rod clear. reaching on time.,clear,0
+2025-10-31 23:55:00,Samrala,zero visibility near samrala. smog is very bad. driving slow.,smog_fog,7

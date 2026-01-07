@@ -1,0 +1,98 @@
+@import '@mantine/core/styles.css';
+
+:root {
+  --mantine-font-family: 'Inter', sans-serif;
+}
+
+body { margin: 0; overflow: hidden; background-color: #0c0d0e; }
+
+/* NEON MAP TILES */
+.neon-map-tiles .leaflet-layer {
+    filter: invert(100%) hue-rotate(180deg) brightness(85%) contrast(125%) saturate(150%);
+}
+.leaflet-container { background: #000 !important; }
+
+/* ANIMATIONS */
+@keyframes pulse-critical {
+  0% { transform: translate(-50%, -50%) scale(0.5); opacity: 0.9; }
+  100% { transform: translate(-50%, -50%) scale(3.0); opacity: 0; }
+}
+@keyframes pulse-high {
+  0% { transform: translate(-50%, -50%) scale(0.6); opacity: 0.8; }
+  100% { transform: translate(-50%, -50%) scale(2.2); opacity: 0; }
+}
+@keyframes pulse-medium {
+  0% { transform: translate(-50%, -50%) scale(0.7); opacity: 0.7; }
+  100% { transform: translate(-50%, -50%) scale(1.8); opacity: 0; }
+}
+
+/* BASE DOT STRUCTURE */
+.incident-dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid white;
+  position: relative;
+  box-shadow: 0 0 8px currentColor;
+  background-color: currentColor;
+  z-index: 1000; /* Ensure dot sits on top */
+}
+
+/* --- SEVERITY STYLES --- */
+
+/* 1. CRITICAL (Red) */
+.severity-critical { color: #ff3b3b; }
+.severity-critical::after {
+  content: ''; position: absolute; top: 50%; left: 50%;
+  width: 100%; height: 100%; border-radius: 50%;
+  border: 3px solid #ff3b3b;
+  animation: pulse-critical 1s infinite ease-out;
+  z-index: 900;
+}
+
+/* 2. HIGH (Orange) */
+.severity-high { color: #fd7e14; }
+.severity-high::after {
+  content: ''; position: absolute; top: 50%; left: 50%;
+  width: 100%; height: 100%; border-radius: 50%;
+  border: 2px solid #fd7e14;
+  animation: pulse-high 1.5s infinite ease-out;
+  z-index: 900;
+}
+
+/* 3. MEDIUM (Yellow) */
+.severity-medium { color: #fcc419; }
+.severity-medium::after {
+  content: ''; position: absolute; top: 50%; left: 50%;
+  width: 100%; height: 100%; border-radius: 50%;
+  border: 2px solid #fcc419;
+  animation: pulse-medium 2s infinite ease-out;
+  z-index: 900;
+}
+
+/* 4. LOW (Green) - THE FIX */
+.severity-low { color: #20c997; }
+.severity-low::after {
+  content: none !important;     /* Kill the pseudo-element */
+  display: none !important;     /* Hide it */
+  animation: none !important;   /* Stop moving */
+  border: none !important;      /* Remove border */
+}
+
+/* MAP ICONS */
+.custom-icon-hub { color: #ff6b6b; filter: drop-shadow(0 0 5px #ff6b6b); }
+.custom-icon-mandi { color: #fcc419; filter: drop-shadow(0 0 5px #fcc419); }
+.custom-icon-village { color: #20c997; filter: drop-shadow(0 0 5px #20c997); }
+.custom-icon-road { color: #adb5bd; }
+
+/* BOUNCING SEARCH PIN */
+@keyframes bounce { 
+    0%, 100% { transform: translateY(0); } C
+    50% { transform: translateY(-15px); } 
+}
+.search-pin { 
+    color: #ff3b3b; 
+    filter: drop-shadow(0 0 10px rgba(255, 59, 59, 0.8)); 
+    font-size: 3rem; 
+    animation: bounce 1s infinite;
+}
