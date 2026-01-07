@@ -1,76 +1,68 @@
-🚚 RLIS — Rural Logistics Intelligence System (Punjab)
+# 🚚 RLIS — Rural Logistics Intelligence System (Punjab)
 
-AI-powered geospatial command center turning messy rural driver logs into live, explainable, actionable intelligence.
+*An AI-powered geospatial command center that turns messy rural driver logs into live, explainable, actionable intelligence.*
 
-🧐 Problem
+![RLIS Demo GIF](assets/demo.gif)
 
-In rural logistics, trucks often get stuck due to:
+## 🧐 The Problem
 
-Traffic jams (chakka jam)
+In rural logistics, trucks don't just stop — they get stuck due to:
+- Traffic jams (`chakka jam`)
+- Protests (`dharna`)
+- Accidents (`gaadi palat gayi`)
+- Broken roads (`road band`)
+- Local chaos
 
-Protests (dharna)
+**The challenge:** Reasons are buried in messy, unstructured **Hinglish logs** that traditional GPS systems ignore:
 
-Accidents (gaadi palat gayi)
+> `"Moga mandi ke bahar chakka jam hai"`  
+> `"Truck fas gaya, road band"`  
+> `"Accident ho gaya, gaadi palat gayi"`
 
-Broken roads (road band)
+Traditional systems only show *where* the truck is.  
+**RLIS tells you *why* it's stuck.**
 
-Local chaos
+## 🖥️ Dashboard Preview
 
-The challenge: The reasons are buried in messy, unstructured Hinglish logs, which traditional GPS systems ignore:
+![RLIS Dashboard](assets/dashboard.png)
 
-"Moga mandi ke bahar chakka jam hai"
-"Truck fas gaya, road band"
-"Accident ho gaya, gaadi palat gayi"
+*Live command center with geospatial visualization, Glass Box reasoning, and real-time incident feed*
 
-Traditional GPS shows where the truck is. RLIS tells you why.
+## 📊 System Flowchart
 
-🖥️ Dashboard Preview
+![RLIS System Flowchart](assets/flowchart.png)
 
+*High-level data & control flow: Frontend → Backend → NLP Pipeline → Database → Visualization*
 
-Full command center view with map, control panel, and Glass Box reasoning.
+## 🧠 What RLIS Does
 
-📊 System Flowchart
+1. **Ingests** raw Hinglish/English driver logs
+2. **Processes** through custom NLP + heuristic pipeline
+3. **Extracts**:
+   - Incident type (Jam, Accident, Protest, Fire, etc.)
+   - Severity (Low/Medium/High/Critical)
+   - Affected location node
+4. **Visualizes** everything live on a geospatial Punjab map
+5. **Exposes** AI reasoning via Glass Box panel
 
+## ✨ Key Features
 
-High-level data & control flow: Frontend → Backend → NLP Pipeline → Database → Visualization
+| Feature | Description |
+|---------|-------------|
+| ✅ **Hinglish Understanding** | Parses rural slang like "chakka jam", "fas gaye", "palat gayi" |
+| ✅ **Hybrid Intelligence** | ML classifier + deterministic safety layer |
+| ✅ **Physics-Based Visualization** | Severity-driven pulsing animation |
+| ✅ **Explainable AI** | Glass Box panel shows reasoning |
+| ✅ **Spatial Intelligence** | PostGIS-powered location queries |
+| ✅ **Production Ready** | Fully Dockerized, reproducible system |
 
-🧠 What RLIS Does
+### 🎨 Severity Visualization System
+- **🔴 Critical** = aggressive fast pulse
+- **🟠 High** = medium pulse
+- **🟡 Medium** = slow pulse
+- **🟢 Low** = calm / static
 
-Ingests raw Hinglish/English driver logs
-
-Processes logs through custom NLP + heuristic pipeline
-
-Extracts:
-
-Incident type (Jam, Accident, Protest, Fire, etc.)
-
-Severity (Low / Medium / High / Critical)
-
-Affected location node
-
-Visualizes everything live on a geospatial Punjab map
-
-Exposes AI reasoning via the Glass Box panel
-
-✨ Key Features
-Feature	Description
-Hinglish Understanding	Parses rural slang like "chakka jam", "fas gaye", "palat gayi"
-Hybrid Intelligence	ML classifier + deterministic safety layer ensures safety-critical events are never missed
-Physics-Based Visualization	Severity-driven pulsing animations on map markers
-Explainable AI	Glass Box panel shows token-level reasoning, sentiment, and severity
-Spatial Intelligence	PostGIS-powered geospatial queries for precise mapping
-Production Ready	Fully Dockerized, reproducible, scalable system
-🎨 Severity Visualization
-
-🔴 Critical = aggressive, fast pulse
-
-🟠 High = medium pulse
-
-🟡 Medium = slow pulse
-
-🟢 Low = calm / static
-
-🏗️ System Architecture
+## 🏗️ System Architecture
 React (Vite) Frontend
 ↓
 FastAPI Backend
@@ -79,79 +71,103 @@ PostgreSQL + PostGIS
 ↓
 NLP Pipeline + Heuristic Safety Engine
 
-🛠️ Tech Stack
-Layer	Technology
-Frontend	React + Vite + Mantine UI + React-Leaflet
-Backend	FastAPI (Python 3.11)
-Database	PostgreSQL + PostGIS
-AI/NLP	Scikit-learn (CountVectorizer + TF-IDF), Multinomial Naive Bayes, Heuristic Safety Layer
-Infrastructure	Docker + Docker Compose
-🚀 Quick Start
-# Clone the repo
+text
+
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| **Frontend** | React + Vite + Mantine UI + React-Leaflet |
+| **Backend** | FastAPI (Python 3.11) |
+| **Database** | PostgreSQL + PostGIS |
+| **AI/NLP** | Scikit-learn (N-grams + TF-IDF), Multinomial Naive Bayes |
+| **Infrastructure** | Docker + Docker Compose |
+
+## 🚀 Quick Start
+
+```bash
+# Clone and run
 git clone <repository-url>
 cd rlis-punjab
-
-# Build and run all services
 docker compose up --build
+Access points:
 
-# Access points:
-# Frontend: http://localhost:3000
-# Backend API: http://localhost:8000/api/v1
-# API Docs: http://localhost:8000/docs
+Frontend: http://localhost:3000
 
-⚙️ Optional Environment Variables
-DB_WAIT_RETRIES: 60    # Number of database connection retries
+Backend API: http://localhost:8000/api/v1
+
+API Docs: http://localhost:8000/docs
+
+⚙️ Environment Configuration
+yaml
+# Optional docker-compose.yml overrides
+DB_WAIT_RETRIES: 60    # Database connection retries
 DB_WAIT_SLEEP: 2       # Seconds between retries
+🧪 System Behavior Flow
 
-🧪 System Behavior
+
+
+
+
+
+
 
 Default state: All 22 Punjab nodes visible, calm map
+Active state: Log → AI processes → Node lights up → Pulse animation → Feed updates
 
-Active state: Log entered → AI processes → Node lights up → Pulse animation → Incident feed updates → Glass Box reasoning displayed
+🧠 Technical Deep Dive
+NLP Pipeline Architecture
+Vectorization: CountVectorizer with N-grams (1, 2)
 
-💻 Frontend Components
+Weighting: TfidfTransformer for signal boosting
+
+Classification: Multinomial Naive Bayes (<10ms inference)
+
+Safety Layer: Keyword override for critical events
+
+Frontend Components
 Component	Purpose
-App.jsx	Main state orchestrator & layout manager
-ControlPanel.jsx	User interaction panel & Glass Box display
+App.jsx	State orchestrator & layout manager
+ControlPanel.jsx	User interaction & Glass Box display
 LogisticsMap.jsx	Geospatial rendering engine
-api.js	HTTP networking bridge to backend API
-🗄️ Database Schema
-
+api.js	HTTP networking bridge
+Database Schema
 locations: Static Punjab nodes (hubs, mandis, villages)
 
 incidents: Live log entries with geospatial metadata
 
-🎨 Visual Design System
+Visual Design System
+Theme: "Cyber-Logistics" aesthetic
 
-Theme: "Cyber-Logistics" aesthetic (deep dark backgrounds + neon accents)
+Colors: Deep dark backgrounds with neon accents
 
-Icons: Custom SVG markers for each location type
+Icons: Custom SVG markers for different location types
 
 Animations: CSS @keyframes for severity pulses
 
 🎯 Why This Matters
+This is real applied AI, not a toy demo:
 
-Handles real-world messiness: ambiguous Hinglish text, rural slang
+Handles Real-World Messiness: Ambiguous Hinglish text, rural slang
 
-Safety-first design: 100% recall for critical events via heuristic layer
+Safety-First Design: 100% recall for critical events via heuristic layer
 
-Explainable AI: Operator trust built via Glass Box panel
+Operator Trust: Explainable AI builds confidence in predictions
 
-Production ready: Dockerized, scalable, spatially indexed
+Production Ready: Dockerized, scalable, with spatial indexing
 
-Actionable intelligence: Converts raw logs into a visual command center
+Actionable Intelligence: Turns raw logs into visual command center insights
 
 📁 Project Structure
+text
 rlis-punjab/
 ├── frontend/           # React Vite application
 ├── backend/            # FastAPI Python server
 ├── nlp_model/          # Trained ML models & vectorizers
-├── assets/             # Images, diagrams, GIFs
+├── assets/             # Images, diagrams, and visual assets
 ├── docker-compose.yml  # Multi-container orchestration
 └── README.md           # This document
-
 🔮 Future Roadmap
-
 Real-time WebSocket updates
 
 Mobile driver app integration
@@ -163,11 +179,9 @@ Multi-state expansion beyond Punjab
 Weather integration for flood alerts
 
 📄 License
-
-MIT License — see LICENSE file for details
+MIT License - see LICENSE file for details
 
 👥 Acknowledgments
-
 Built for the unique challenges of rural Indian logistics.
 Special thanks to logistics operators in Punjab for domain insights.
 
